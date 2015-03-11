@@ -405,7 +405,7 @@
 			</entry>
 			<entry>
 				<title num="">Sanskrit Vishva Parishad</title>
-				<feature>Sanskrit Vishva Parishad</feature>
+				<feature></feature>
 				<series></series>
 				<page>0043-0044</page>
 				<allauthors />
@@ -1614,7 +1614,7 @@
 			</entry>
 			<entry>
 				<title num="">Sanskrit Vishva Parishad</title>
-				<feature>Sanskrit Vishva Parishad</feature>
+				<feature></feature>
 				<series></series>
 				<page>0050-0050</page>
 				<allauthors />
@@ -1745,7 +1745,7 @@
 			</entry>
 			<entry>
 				<title num="">Sanskrit Vishva Parishad</title>
-				<feature>Sanskrit Vishva Parishad</feature>
+				<feature></feature>
 				<series></series>
 				<page>0047-0047</page>
 				<allauthors />
@@ -1908,7 +1908,7 @@
 			</entry>
 			<entry>
 				<title num="">Pathshala Fund : Chairman's Appeal</title>
-				<feature>Sanskrit Vishva Parishad</feature>
+				<feature></feature>
 				<series></series>
 				<page>0046-0046;0048-0048</page>
 				<allauthors />
@@ -3270,7 +3270,7 @@
 			</entry>
 			<entry>
 				<title num="">Sanskrit Vishva Parishad</title>
-				<feature>Sanskrit Vishva Parishad</feature>
+				<feature></feature>
 				<series></series>
 				<page>0049-0050</page>
 				<allauthors />
@@ -3504,7 +3504,7 @@
 			</entry>
 			<entry>
 				<title num="">Sanskrit Vishva Parishad</title>
-				<feature>Sanskrit Vishva Parishad</feature>
+				<feature></feature>
 				<series></series>
 				<page>0123-0125</page>
 				<allauthors />
@@ -3760,7 +3760,7 @@
 			</entry>
 			<entry>
 				<title num="">Sanskrit Vishva Parishad</title>
-				<feature>Sanskrit Vishva Parishad</feature>
+				<feature></feature>
 				<series></series>
 				<page>0048-0048</page>
 				<allauthors />
@@ -4179,7 +4179,7 @@
 			</entry>
 			<entry>
 				<title num="">Sanskrit Vishva Parishad</title>
-				<feature>Sanskrit Vishva Parishad</feature>
+				<feature></feature>
 				<series></series>
 				<page>0046-0047</page>
 				<allauthors />
@@ -4394,7 +4394,7 @@
 			</entry>
 			<entry>
 				<title num="">Sanskrit Vishva Parishad</title>
-				<feature>Sanskrit Vishva Parishad</feature>
+				<feature></feature>
 				<series></series>
 				<page>0108-0110</page>
 				<allauthors />
@@ -4540,7 +4540,7 @@
 			</entry>
 			<entry>
 				<title num="">Tirupati Session</title>
-				<feature>Sanskrit Vishva Parishad</feature>
+				<feature></feature>
 				<series></series>
 				<page>0040a-0040b</page>
 				<allauthors />
@@ -7855,7 +7855,7 @@
 			<entry>
 				<title num="28">Vikrama on a New Mission</title>
 				<feature></feature>
-				<series>Simhasana Dwartimsika</series>
+				<series>Simhasana Dwatrimsika</series>
 				<page>0067-0069</page>
 				<allauthors />
 			</entry>
@@ -8495,7 +8495,7 @@
 			</entry>
 			<entry>
 				<title num="">On Her First Moonlight Solo</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0055-0057</page>
 				<allauthors>
@@ -8744,7 +8744,7 @@
 			</entry>
 			<entry>
 				<title num="">Supplement to Bhavan's Journal - December 16, 1956 : Kurukshetra Session</title>
-				<feature>Sanskrit Vishva Parishad</feature>
+				<feature></feature>
 				<series></series>
 				<page>0038a-0038h</page>
 				<allauthors />
@@ -8769,7 +8769,7 @@
 			</entry>
 			<entry>
 				<title num="">Rough Estimate</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0043-0046</page>
 				<allauthors>
@@ -8883,8 +8883,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Lawyer, Litterateur and Patriot --- A Birthday Tribute</title>
-				<feature></feature>
+				<title num="">Lawyer, Litterateur and Patriot - A Birthday Tribute</title>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0028-0032;0056-0057</page>
 				<allauthors />
@@ -8957,8 +8957,8 @@
 			</entry>
 			<entry>
 				<title num="">Kurukshetra Session</title>
-				<feature></feature>
-				<series>Sanskrit Visva Parishad</series>
+				<feature>Sanskrit Vishva Parishad</feature>
+				<series></series>
 				<page>0060-0061</page>
 				<allauthors />
 			</entry>
@@ -8972,7 +8972,7 @@
 			<entry>
 				<title num="35">The Treacherous Queen</title>
 				<feature></feature>
-				<series>Simhasana Dwathimsika</series>
+				<series>Simhasana Dwatrimsika</series>
 				<page>0066-0068;0072-0072</page>
 				<allauthors />
 			</entry>
@@ -9068,9 +9068,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="06">Sanskrit Lessions</title>
+				<title num="06">Sanskrit Lessons</title>
 				<feature></feature>
-				<series>Sanskrit Lessions</series>
+				<series>Sanskrit Lessons</series>
 				<page>0046-0047</page>
 				<allauthors />
 			</entry>
@@ -9216,7 +9216,7 @@
 			<entry>
 				<title num="63">Harold Macmillan</title>
 				<feature></feature>
-				<series>Our Fortnightly Profie</series>
+				<series>Our Fortnightly Profile</series>
 				<page>0050-0052</page>
 				<allauthors />
 			</entry>
@@ -9362,9 +9362,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="08">Sanskrit Lessions</title>
+				<title num="08">Sanskrit Lessons</title>
 				<feature></feature>
-				<series>Sanskrit Lessions</series>
+				<series>Sanskrit Lessons</series>
 				<page>0057-0058</page>
 				<allauthors />
 			</entry>
@@ -9800,7 +9800,7 @@
 			<entry>
 				<title num="67">Gromyko</title>
 				<feature></feature>
-				<series>Our Fortnightly Profice</series>
+				<series>Our Fortnightly Profile</series>
 				<page>0048-0049;0052-0052</page>
 				<allauthors />
 			</entry>
@@ -14181,7 +14181,7 @@
 			<entry>
 				<title num="">The Lucky Boatman</title>
 				<feature></feature>
-				<series>Ramacharitmanasa</series>
+				<series>Ramacharitamanasa</series>
 				<page>0021-0022;0030-0030</page>
 				<allauthors>
 					<author type="0">Tulsida, Goswami</author>
@@ -16583,7 +16583,7 @@
 			</entry>
 			<entry>
 				<title num="">Rajulu Chettiar</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0025-0027</page>
 				<allauthors>
@@ -16655,7 +16655,7 @@
 			</entry>
 			<entry>
 				<title num="">Bipinchandra Pal</title>
-				<feature>Centenary Tribute</feature>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0057-0057;0060-0060</page>
 				<allauthors />
@@ -17522,7 +17522,7 @@
 			</entry>
 			<entry>
 				<title num="">Stand Firm by Fundamental Values &#8212; Mr. Arthur Koestler's Interview with H. H. Kanchi</title>
-				<feature></feature>
+				<feature>Interview</feature>
 				<series></series>
 				<page>0020-0025</page>
 				<allauthors />
@@ -18082,7 +18082,7 @@
 			</entry>
 			<entry>
 				<title num="">Guide to Delegates to Puri Session</title>
-				<feature>Sanskrit Vishva Parishad</feature>
+				<feature></feature>
 				<series></series>
 				<page>0071-0072</page>
 				<allauthors />
@@ -19625,7 +19625,7 @@
 			<entry>
 				<title num="01">Injured Innocence</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0120-0125</page>
 				<allauthors />
 			</entry>
@@ -19748,7 +19748,7 @@
 			<entry>
 				<title num="02">The Prince Escapes</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0068-0072</page>
 				<allauthors />
 			</entry>
@@ -19891,7 +19891,7 @@
 			<entry>
 				<title num="03">Women of the Portrait</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0060-0065</page>
 				<allauthors />
 			</entry>
@@ -20034,7 +20034,7 @@
 			<entry>
 				<title num="">Chaturya Discovers the Girls</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0066-0071</page>
 				<allauthors />
 			</entry>
@@ -20191,7 +20191,7 @@
 			<entry>
 				<title num="05">Lor Shankara to the Rescue</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0069-0072</page>
 				<allauthors />
 			</entry>
@@ -20344,7 +20344,7 @@
 			<entry>
 				<title num="06">Chaturya ``Marries''</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0067-0071</page>
 				<allauthors />
 			</entry>
@@ -20541,7 +20541,7 @@
 			<entry>
 				<title num="07">The First Night</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0107-0112</page>
 				<allauthors />
 			</entry>
@@ -20693,7 +20693,7 @@
 			<entry>
 				<title num="08">The Guru's Chance</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0066-0069</page>
 				<allauthors />
 			</entry>
@@ -20834,7 +20834,7 @@
 			<entry>
 				<title num="09">The Chela Gives the Slip</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0069-0071</page>
 				<allauthors />
 			</entry>
@@ -20996,7 +20996,7 @@
 			<entry>
 				<title num="10">Parrot and the Princess</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0075-0079</page>
 				<allauthors />
 			</entry>
@@ -21169,7 +21169,7 @@
 			<entry>
 				<title num="11">The Happy Truce</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0076-0079</page>
 				<allauthors />
 			</entry>
@@ -21328,7 +21328,7 @@
 			<entry>
 				<title num="12">Prince Who Bought a Cat</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0065-0069</page>
 				<allauthors />
 			</entry>
@@ -21489,7 +21489,7 @@
 			<entry>
 				<title num="13">The Beggar Prince Becomes a Monarch</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0072-0076</page>
 				<allauthors />
 			</entry>
@@ -21582,8 +21582,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Netaji in Germany (A Review)</title>
-				<feature></feature>
+				<title num="">Netaji in Germany</title>
+				<feature>Book Review</feature>
 				<series></series>
 				<page>0046-0048</page>
 				<allauthors>
@@ -21625,7 +21625,7 @@
 			<entry>
 				<title num="14">The Magic Ring Passes Hands</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0068-0072</page>
 				<allauthors />
 			</entry>
@@ -21755,7 +21755,7 @@
 			<entry>
 				<title num="15">Magic Ring Recovered</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0069-0072</page>
 				<allauthors />
 			</entry>
@@ -21880,7 +21880,7 @@
 			<entry>
 				<title num="16">The Tortoise Prince</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0068-0072</page>
 				<allauthors />
 			</entry>
@@ -22030,7 +22030,7 @@
 			<entry>
 				<title num="17">The Tortoise-Prince Weds</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0078-0081</page>
 				<allauthors />
 			</entry>
@@ -22169,10 +22169,10 @@
 			<entry>
 				<title num="18">Ingratitude</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0070-0073</page>
 				<allauthors>
-					<author type="0">Stories of King Madana Kama</author>
+					<author type="0">Stories of King Madanakama</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22344,7 +22344,7 @@
 			<entry>
 				<title num="19">The Tortoise-Prince Comes Back to Life</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0074-0077</page>
 				<allauthors />
 			</entry>
@@ -22506,7 +22506,7 @@
 			<entry>
 				<title num="20">In Quest of the Divine Lotus</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0067-0073</page>
 				<allauthors />
 			</entry>
@@ -22627,7 +22627,7 @@
 			<entry>
 				<title num="21">Jaga-tala-pratapa</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0066-0072</page>
 				<allauthors />
 			</entry>
@@ -22780,7 +22780,7 @@
 			<entry>
 				<title num="22">The Nag Kanya</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0069-0073</page>
 				<allauthors />
 			</entry>
@@ -22926,7 +22926,7 @@
 			<entry>
 				<title num="23">Varuna's Daughter</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0070-0072</page>
 				<allauthors />
 			</entry>
@@ -23070,7 +23070,7 @@
 			<entry>
 				<title num="24">Pratapa Teaches a Lesson</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0067-0072</page>
 				<allauthors />
 			</entry>
@@ -23227,7 +23227,7 @@
 			<entry>
 				<title num="25">Pratapa in the Soup</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0067-0070</page>
 				<allauthors />
 			</entry>
@@ -23364,7 +23364,7 @@
 			<entry>
 				<title num="26">Pratapa Makes a Second Bid</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0067-0070</page>
 				<allauthors />
 			</entry>
@@ -23757,14 +23757,14 @@
 			<entry>
 				<title num="">Rajba's Pilgrimage</title>
 				<feature></feature>
-				<series>Tapaswini</series>
+				<series>Tapasvini</series>
 				<page>0060-0066</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title num="27">Pratapa Regains his Kingdom</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0067-0069</page>
 				<allauthors />
 			</entry>
@@ -23939,7 +23939,7 @@
 			<entry>
 				<title num="28">The Divine Mango</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0067-0071</page>
 				<allauthors />
 			</entry>
@@ -24071,7 +24071,7 @@
 			<entry>
 				<title num="29">The Younger Prince at Large</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0067-0070</page>
 				<allauthors />
 			</entry>
@@ -24235,7 +24235,7 @@
 			<entry>
 				<title num="">Danseuse Becomes a Baboon</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0071-0074</page>
 				<allauthors />
 			</entry>
@@ -24582,7 +24582,7 @@
 			<entry>
 				<title num="31">The Reunion</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0071-0073</page>
 				<allauthors />
 			</entry>
@@ -26087,7 +26087,7 @@
 			</entry>
 			<entry>
 				<title num="">The Love Tryst</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0054-0057</page>
 				<allauthors>
@@ -26431,7 +26431,7 @@
 			<entry>
 				<title num="37">Rambha's Curse</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0073-0075</page>
 				<allauthors />
 			</entry>
@@ -26750,7 +26750,7 @@
 			<entry>
 				<title num="39">Relentless Fate</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0071-0076</page>
 				<allauthors />
 			</entry>
@@ -26925,7 +26925,7 @@
 			<entry>
 				<title num="40">Lakshmi Rejoins Her Husband</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0079-0082</page>
 				<allauthors />
 			</entry>
@@ -27062,7 +27062,7 @@
 			<entry>
 				<title num="41">The Love-Potion</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0067-0070;0074-0074</page>
 				<allauthors />
 			</entry>
@@ -27192,7 +27192,7 @@
 			<entry>
 				<title num="42">Lakshmi Reunited</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0075-0078</page>
 				<allauthors />
 			</entry>
@@ -27349,7 +27349,7 @@
 			<entry>
 				<title num="43">Amritavalli</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0071-0075</page>
 				<allauthors />
 			</entry>
@@ -27469,7 +27469,7 @@
 			<entry>
 				<title num="44">Man Proposes, But ...</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0071-0074</page>
 				<allauthors />
 			</entry>
@@ -27637,7 +27637,7 @@
 			<entry>
 				<title num="45">The Double-cross</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0072-0074</page>
 				<allauthors />
 			</entry>
@@ -27965,7 +27965,7 @@
 			<entry>
 				<title num="46">Amritavalli Marries</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0185-0191</page>
 				<allauthors />
 			</entry>
@@ -28106,7 +28106,7 @@
 			<entry>
 				<title num="47">In Search of Lord Siva</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0069-0073</page>
 				<allauthors />
 			</entry>
@@ -28261,7 +28261,7 @@
 			<entry>
 				<title num="48">Virtues of Anna-Dana</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0071-0074</page>
 				<allauthors />
 			</entry>
@@ -28379,7 +28379,7 @@
 			<entry>
 				<title num="49">Oilman's Daughter</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0067-0072</page>
 				<allauthors />
 			</entry>
@@ -28509,10 +28509,10 @@
 			<entry>
 				<title num="50">Wedding Bells</title>
 				<feature></feature>
-				<series>Stories of King Madana Kama</series>
+				<series>Stories of King Madanakama</series>
 				<page>0065-0070</page>
 				<allauthors>
-					<author type="0">Stories of King Madana Kama</author>
+					<author type="0">Stories of King Madanakama</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28918,7 +28918,7 @@
 			</entry>
 			<entry>
 				<title num="">No Thanks to Cupid</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0140-0146</page>
 				<allauthors>
@@ -30796,7 +30796,7 @@
 			<entry>
 				<title num="46">The Caves of Muchkund</title>
 				<feature></feature>
-				<series>Krishnavatara (Part II)</series>
+				<series>Krishnavatara (Part - II)</series>
 				<page>0057-0064;0072-0072</page>
 				<allauthors>
 					<author type="0">Munshi, K. M.</author>
@@ -34040,7 +34040,7 @@
 			<entry>
 				<title num="102">The Mock Thread-Ceremony</title>
 				<feature></feature>
-				<series>Tapasvini  (Part - III)</series>
+				<series>Tapasvini (Part - III)</series>
 				<page>0070-0074</page>
 				<allauthors>
 					<author type="0">Munshi, K. M.</author>
@@ -35063,7 +35063,7 @@
 			</entry>
 			<entry>
 				<title num="">The Gold Bangles</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0045-0047</page>
 				<allauthors>
@@ -35080,7 +35080,7 @@
 			<entry>
 				<title num="115">The Triumph of the Spirit</title>
 				<feature></feature>
-				<series>Tapasvini (Part III)</series>
+				<series>Tapasvini (Part - III)</series>
 				<page>0053-0057</page>
 				<allauthors>
 					<author type="0">Munshi, K. M.</author>
@@ -35089,7 +35089,7 @@
 			<entry>
 				<title num="116">Surrender</title>
 				<feature></feature>
-				<series>Tapasvini (Part III)</series>
+				<series>Tapasvini (Part - III)</series>
 				<page>0057-0064</page>
 				<allauthors>
 					<author type="0">Munshi, K. M.</author>
@@ -35572,7 +35572,7 @@
 			</entry>
 			<entry>
 				<title num="">Sentinel of Culture</title>
-				<feature>Centenary Tribute</feature>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0032-0035</page>
 				<allauthors />
@@ -37777,8 +37777,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Winston Churchill is 90 (A Birthday Tribute)</title>
-				<feature></feature>
+				<title num="">Winston Churchill is 90</title>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0015-0015</page>
 				<allauthors>
@@ -38136,8 +38136,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">To Netaji (A Birthday Tribute)</title>
-				<feature></feature>
+				<title num="">To Netaji</title>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0057-0057</page>
 				<allauthors>
@@ -38297,8 +38297,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Sir Lallubhai A. Shah (A Tribute)</title>
-				<feature></feature>
+				<title num="">Sir Lallubhai A. Shah</title>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0033-0035</page>
 				<allauthors>
@@ -40892,7 +40892,7 @@
 			</entry>
 			<entry>
 				<title num="">The Weed</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0200-0207</page>
 				<allauthors>
@@ -41022,7 +41022,7 @@
 			<entry>
 				<title num="04">Dakshin Bharat Yatra</title>
 				<feature></feature>
-				<series>A Travel Dairy</series>
+				<series>A Travel Diary</series>
 				<page>0042-0047</page>
 				<allauthors>
 					<author type="0">Yatrik, A.</author>
@@ -41030,7 +41030,7 @@
 			</entry>
 			<entry>
 				<title num="">Illusion</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0051-0058</page>
 				<allauthors>
@@ -41430,7 +41430,7 @@
 			</entry>
 			<entry>
 				<title num="">The Cage</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0062-0068</page>
 				<allauthors>
@@ -41543,7 +41543,7 @@
 			</entry>
 			<entry>
 				<title num="">Crackers</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0055-0061</page>
 				<allauthors>
@@ -41843,8 +41843,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Harold Wilson : A Review</title>
-				<feature></feature>
+				<title num="">Harold Wilson</title>
+				<feature>Book Review</feature>
 				<series></series>
 				<page>0043-0044</page>
 				<allauthors />
@@ -42704,7 +42704,7 @@
 			</entry>
 			<entry>
 				<title num="">Noorjehan</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0054-0063</page>
 				<allauthors>
@@ -42838,7 +42838,7 @@
 			</entry>
 			<entry>
 				<title num="">Noorjehan</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0041-0050</page>
 				<allauthors>
@@ -42956,7 +42956,7 @@
 			</entry>
 			<entry>
 				<title num="">Noorjehan</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0055-0064</page>
 				<allauthors>
@@ -43092,7 +43092,7 @@
 			</entry>
 			<entry>
 				<title num="">Noorjehan</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0049-0057</page>
 				<allauthors>
@@ -43541,7 +43541,7 @@
 			</entry>
 			<entry>
 				<title num="">Nimai</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0053-0056</page>
 				<allauthors>
@@ -43695,7 +43695,7 @@
 			</entry>
 			<entry>
 				<title num="">The Wind God</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0057-0058</page>
 				<allauthors>
@@ -44218,7 +44218,7 @@
 			<entry>
 				<title num="">The Joyful Saint</title>
 				<feature></feature>
-				<series>Pageant of Great Lives Series</series>
+				<series>Pageant of Great Lives</series>
 				<page>0041-0047</page>
 				<allauthors>
 					<author type="0">Rao, G. K.</author>
@@ -45393,7 +45393,7 @@
 			</entry>
 			<entry>
 				<title num="">Two Letters</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0145-0169</page>
 				<allauthors>
@@ -45851,7 +45851,7 @@
 			</entry>
 			<entry>
 				<title num="">A Grain of Mustard-seed</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0050-0057</page>
 				<allauthors>
@@ -48356,7 +48356,7 @@
 			</entry>
 			<entry>
 				<title num="">The Dutiful Witness</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0243-0255</page>
 				<allauthors>
@@ -49323,7 +49323,7 @@
 			</entry>
 			<entry>
 				<title num="">Aunt Krishnamma</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0183-0189</page>
 				<allauthors>
@@ -49606,7 +49606,7 @@
 			</entry>
 			<entry>
 				<title num="">From Foe to Friend</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0059-0062</page>
 				<allauthors>
@@ -51821,7 +51821,7 @@
 			<entry>
 				<title num="09">Dvaipaayana Eludes the Death Charm</title>
 				<feature></feature>
-				<series>Krishnavatara (Part VI)</series>
+				<series>Krishnavatara (Part - VI)</series>
 				<page>0033-0040</page>
 				<allauthors>
 					<author type="0">Munshi, K. M.</author>
@@ -52370,7 +52370,7 @@
 			</entry>
 			<entry>
 				<title num="">The Birth of an Upanishad</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0238-0255</page>
 				<allauthors>
@@ -52457,7 +52457,7 @@
 			<entry>
 				<title num="12">The Rajya Sabha</title>
 				<feature></feature>
-				<series>Krishnavatara (Part VI)</series>
+				<series>Krishnavatara (Part - VI)</series>
 				<page>0031-0034</page>
 				<allauthors>
 					<author type="0">Munshi, K. M.</author>
@@ -52481,7 +52481,7 @@
 			</entry>
 			<entry>
 				<title num="">Blossoms in the Dust</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0040-0048</page>
 				<allauthors>
@@ -53136,7 +53136,7 @@
 			</entry>
 			<entry>
 				<title num="">The Blank Cheque</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0178-0191</page>
 				<allauthors>
@@ -54064,7 +54064,7 @@
 			<entry>
 				<title num="23">`Take Me to Godhuli'</title>
 				<feature></feature>
-				<series>Krishnavatara (Part VI)</series>
+				<series>Krishnavatara (Part - VI)</series>
 				<page>0033-0038</page>
 				<allauthors>
 					<author type="0">Munshi, K. M.</author>
@@ -54204,7 +54204,7 @@
 			</entry>
 			<entry>
 				<title num="">Tilottama</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0057-0063</page>
 				<allauthors>
@@ -54593,7 +54593,7 @@
 			<entry>
 				<title num="">Shuka Creates a Problem</title>
 				<feature></feature>
-				<series>Krishnavatara (Part VI)</series>
+				<series>Krishnavatara (Part - VI)</series>
 				<page>0035-0040</page>
 				<allauthors>
 					<author type="0">Munshi, K. M.</author>
@@ -54765,7 +54765,7 @@
 			</entry>
 			<entry>
 				<title num="">Moulana's Prayer</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0064-0069</page>
 				<allauthors>
@@ -55044,7 +55044,7 @@
 			</entry>
 			<entry>
 				<title num="">Reception</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0060-0063</page>
 				<allauthors>
@@ -55826,15 +55826,15 @@
 			</entry>
 			<entry>
 				<title num="">How Can We Preserve Dharma and Asthikya? Interview with H. H. Ahobila</title>
-				<feature></feature>
+				<feature>Interview</feature>
 				<series></series>
 				<page>0029-0031</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">What must be changed-And why?</title>
+				<title num="">What must be changed and why?</title>
 				<feature></feature>
-				<series></series>
+				<series>What Must Be Changed and Why?</series>
 				<page>0032-0036;0043-0043</page>
 				<allauthors>
 					<author type="0">Sorokin, Dr. Pitirim</author>
@@ -55885,7 +55885,7 @@
 			</entry>
 			<entry>
 				<title num="">The Tree Speaks</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0057-0059</page>
 				<allauthors>
@@ -56231,7 +56231,7 @@
 			</entry>
 			<entry>
 				<title num="">The Representative</title>page missing
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0229-0000</page>
 				<allauthors>
@@ -56311,7 +56311,7 @@
 			<entry>
 				<title num="02">Economic and Occupational Institutions</title>
 				<feature></feature>
-				<series>What Must Be Changed-and Why?</series>
+				<series>What Must Be Changed and Why?</series>
 				<page>0036-0039;0045-0045</page>
 				<allauthors>
 					<author type="0">Sorokin, Dr. Pitirim A.</author>
@@ -56821,8 +56821,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Dr. Pitirim A. Sorokin&#8212;a tribute</title>
-				<feature></feature>
+				<title num="">Dr. Pitirim A. Sorokin</title>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0053-0056</page>
 				<allauthors>
@@ -57660,7 +57660,7 @@
 			<entry>
 				<title num="04">Rajaji's Jail Diary (1921-22)</title>
 				<feature></feature>
-				<series>Rajaji's Jain Diary</series>
+				<series>Rajaji's Jails Diary</series>
 				<page>0069-0070</page>
 				<allauthors />
 			</entry>
@@ -57785,7 +57785,7 @@
 			</entry>
 			<entry>
 				<title num="">18th Inter&#8212;Collegiate Dramatic Competition</title>
-				<feature>A Review</feature>
+				<feature></feature>
 				<series></series>
 				<page>0057-0060</page>
 				<allauthors>
@@ -58241,7 +58241,7 @@
 			<entry>
 				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0077-0080</page>
 				<allauthors />
 			</entry>
@@ -58414,7 +58414,7 @@
 			<entry>
 				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0063-0065</page>
 				<allauthors />
 			</entry>
@@ -58558,7 +58558,7 @@
 			<entry>
 				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0063-0066</page>
 				<allauthors />
 			</entry>
@@ -58697,7 +58697,7 @@
 			<entry>
 				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0060-0061</page>
 				<allauthors />
 			</entry>
@@ -59031,9 +59031,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series>Cultural Trends &amp; Events</series>
+				<series>Cultural Trends and Events</series>
 				<page>0063-0065</page>
 				<allauthors />
 			</entry>
@@ -59179,9 +59179,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series>Cultural Trends &amp; Events</series>
+				<series>Cultural Trends and Events</series>
 				<page>0063-0065</page>
 				<allauthors />
 			</entry>
@@ -59343,9 +59343,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series>Cultural Trends &amp; Events</series>
+				<series>Cultural Trends and Events</series>
 				<page>0060-0062</page>
 				<allauthors />
 			</entry>
@@ -59507,9 +59507,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series>Cultural Trends &amp; Events</series>
+				<series>Cultural Trends and Events</series>
 				<page>0062-0064</page>
 				<allauthors />
 			</entry>
@@ -59644,9 +59644,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series>Cultural Trends &amp; Events</series>
+				<series>Cultural Trends and Events</series>
 				<page>0061-0063</page>
 				<allauthors />
 			</entry>
@@ -59817,9 +59817,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series>Cultural Trends &amp; Events</series>
+				<series>Cultural Trends and Events</series>
 				<page>0067-0069</page>
 				<allauthors />
 			</entry>
@@ -59997,7 +59997,7 @@
 			<entry>
 				<title num="">Mahabalipuram</title>
 				<feature></feature>
-				<series>Garland of Temple Stories</series>
+				<series>Garland of Temple-Stories</series>
 				<page>0069-0070</page>
 				<allauthors />
 			</entry>
@@ -60143,14 +60143,14 @@
 			<entry>
 				<title num="">Avudaiyarkoil</title>
 				<feature></feature>
-				<series>Garland of Temple Stories</series>
+				<series>Garland of Temple-Stories</series>
 				<page>0061-0063</page>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series>Cultural Trends &amp; Events</series>
+				<series>Cultural Trends and Events</series>
 				<page>0064-0067</page>
 				<allauthors />
 			</entry>
@@ -60285,9 +60285,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series>Cultural Trends &amp; Events</series>
+				<series>Cultural Trends and Events</series>
 				<page>0063-0064</page>
 				<allauthors />
 			</entry>
@@ -60723,7 +60723,7 @@
 			<entry>
 				<title num="">Suchindram</title>
 				<feature></feature>
-				<series>Garland of Temple Stories</series>
+				<series>Garland of Temple-Stories</series>
 				<page>0299-0304</page>
 				<allauthors>
 					<author type="0">Padmanabhan, Sri S.</author>
@@ -60857,9 +60857,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0063-0064</page>
 				<allauthors />
 			</entry>
@@ -61031,9 +61031,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0082-0083</page>
 				<allauthors />
 			</entry>
@@ -61217,7 +61217,7 @@
 			<entry>
 				<title num="19">Laughter at Death</title>
 				<feature></feature>
-				<series>Stories King Vikramaditya</series>
+				<series>Stories of King Vikramaditya</series>
 				<page>0076-0078</page>
 				<allauthors />
 			</entry>
@@ -61240,9 +61240,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0081-0082</page>
 				<allauthors />
 			</entry>
@@ -62364,7 +62364,7 @@
 			<entry>
 				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0068-0069</page>
 				<allauthors />
 			</entry>
@@ -62734,7 +62734,7 @@
 			<entry>
 				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0067-0068</page>
 				<allauthors />
 			</entry>
@@ -63090,7 +63090,7 @@
 			<entry>
 				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0065-0069</page>
 				<allauthors />
 			</entry>
@@ -63625,9 +63625,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0090-0091</page>
 				<allauthors />
 			</entry>
@@ -63777,9 +63777,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0067-0068</page>
 				<allauthors />
 			</entry>
@@ -64111,7 +64111,7 @@
 			<entry>
 				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0080-0080</page>
 				<allauthors />
 			</entry>
@@ -64358,12 +64358,10 @@
 			</entry>
 			<entry>
 				<title num="">Chhatrapati Shivaji</title>
-				<feature></feature>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0032-0032</page>
-				<allauthors>
-					<author type="0">Tribute, A Jayanti</author>
-				</allauthors>
+				<allauthors/>
 			</entry>
 			<entry>
 				<title num="">Adi Sankaracharya : His Life and Message</title>
@@ -64850,7 +64848,7 @@
 			<entry>
 				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0073-0074</page>
 				<allauthors />
 			</entry>
@@ -64942,8 +64940,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Charles Dickens : A Centenary tribute</title>
-				<feature></feature>
+				<title num="">Charles Dickens</title>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0031-0033</page>
 				<allauthors />
@@ -65005,7 +65003,7 @@
 			<entry>
 				<title num="02">Roger Bacon</title>
 				<feature></feature>
-				<series>From Candelight to Satellite</series>
+				<series>From Candlelight to Satellite</series>
 				<page>0059-0062</page>
 				<allauthors />
 			</entry>
@@ -65042,9 +65040,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0078-0079</page>
 				<allauthors />
 			</entry>
@@ -65316,8 +65314,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Swami Ramdas &#8212; A Tribute</title>
-				<feature></feature>
+				<title num="">Swami Ramdas</title>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0042-0046</page>
 				<allauthors />
@@ -65380,9 +65378,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0081-0081</page>
 				<allauthors />
 			</entry>
@@ -66943,7 +66941,7 @@
 			</entry>
 			<entry>
 				<title num="">Saint Namadeva: A Seventh Centenary Tribute</title>
-				<feature></feature>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0015-0015</page>
 				<allauthors />
@@ -67101,7 +67099,7 @@
 			<entry>
 				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0086-0088</page>
 				<allauthors />
 			</entry>
@@ -67814,7 +67812,7 @@
 			<entry>
 				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0075-0077</page>
 				<allauthors />
 			</entry>
@@ -68178,9 +68176,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0081-0082</page>
 				<allauthors />
 			</entry>
@@ -68360,9 +68358,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0079-0081</page>
 				<allauthors />
 			</entry>
@@ -69110,7 +69108,7 @@
 			<entry>
 				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0088-0088</page>
 				<allauthors />
 			</entry>
@@ -69440,7 +69438,7 @@
 			<entry>
 				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0078-0080</page>
 				<allauthors />
 			</entry>
@@ -70168,9 +70166,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0078-0080</page>
 				<allauthors />
 			</entry>
@@ -70405,7 +70403,7 @@
 			<entry>
 				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0086-0087</page>
 				<allauthors />
 			</entry>
@@ -71371,9 +71369,9 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0078-0080</page>
 				<allauthors />
 			</entry>
@@ -71512,8 +71510,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">T. Prakasam: Centenary Tribute</title>
-				<feature></feature>
+				<title num="">T. Prakasam</title>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0060-0066</page>
 				<allauthors>
@@ -72125,9 +72123,9 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Cultural Trends &amp; Events</title>
+				<title num="">Cultural Trends and Events</title>
 				<feature></feature>
-				<series></series>
+				<series>Cultural Trends and Events</series>
 				<page>0078-0079</page>
 				<allauthors />
 			</entry>
@@ -73378,7 +73376,7 @@
 			</entry>
 			<entry>
 				<title num="">The Gift of the Sea</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0057-0064</page>
 				<allauthors>
@@ -73502,8 +73500,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Immortal Rajam Iyer: A Centenary Tribute</title>
-				<feature></feature>
+				<title num="">Immortal Rajam Iyer</title>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0040-0043</page>
 				<allauthors>
@@ -74298,7 +74296,7 @@
 			<entry>
 				<title num="22">Krishna-Viraha</title>
 				<feature></feature>
-				<series>Sri Chaitanya Mahaprabhu : XII</series>
+				<series>Sri Chaitanya Mahaprabhu-XII</series>
 				<page>0067-0072</page>
 				<allauthors>
 					<author type="0">Ghose, Dr. Sisir Kumar</author>
@@ -74648,7 +74646,7 @@
 			</entry>
 			<entry>
 				<title num="">The Perfectionist</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0069-0072</page>
 				<allauthors>
@@ -77809,7 +77807,7 @@
 			</entry>
 			<entry>
 				<title num="">Worldwide Tributes to Rajaji</title>
-				<feature></feature>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0094-0096</page>
 				<allauthors />
@@ -78533,7 +78531,7 @@
 			</entry>
 			<entry>
 				<title num="">The Poet</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0053-0054</page>
 				<allauthors>
@@ -79005,7 +79003,7 @@
 			</entry>
 			<entry>
 				<title num="">Shri Rameshwardas Birla &#8212; A Personal Tribute</title>
-				<feature></feature>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0017-0018</page>
 				<allauthors>
@@ -79411,7 +79409,7 @@
 			<entry>
 				<title num="33">Have no Doubt</title>
 				<feature></feature>
-				<series>Rajagopalachari, Shri C.</series>
+				<series>Ramakrishna Upanishad</series>
 				<page>0014-0016</page>
 				<allauthors>
 					<author type="0">Rajagopalachari, Shri C.</author>
@@ -79709,8 +79707,8 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">On Dadaji-Part III-A Review</title>
-				<feature></feature>
+				<title num="">On Dadaji - Part III</title>
+				<feature>Book Review</feature>
 				<series></series>
 				<page>0069-0074</page>
 				<allauthors>
@@ -80056,7 +80054,7 @@
 			</entry>
 			<entry>
 				<title num="">An Interview with M. S. Subbulakshmi</title>
-				<feature></feature>
+				<feature>Interview</feature>
 				<series></series>
 				<page>0057-0062</page>
 				<allauthors>
@@ -80577,7 +80575,7 @@
 			</entry>
 			<entry>
 				<title num="">The Raag and the Song</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0209-0224</page>
 				<allauthors>
@@ -82698,8 +82696,8 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">K. M. Munshi &#8212; A Tribute</title>
-				<feature></feature>
+				<title num="">K. M. Munshi</title>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0014-0020</page>
 				<allauthors>
@@ -84413,7 +84411,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Grateful Indeed</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0061-0063</page>
 				<allauthors />
@@ -84474,9 +84472,11 @@ d			<entry>
 			<entry>
 				<title num="">Naga Panchami</title>
 				<feature></feature>
-				<series>Ramakrishna, Shri N.</series>
+				<series></series>
 				<page>0023-0027</page>
-				<allauthors />
+				<allauthors>
+					<author type="0">Ramakrishna, Shri N.</author>
+				</allauthors>
 			</entry>
 			<entry>
 				<title num="">What is Ramayana to Me-VIII</title>
@@ -85366,7 +85366,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Mr. Speaker: Sri S. K. Wankhede &#8212; A Sixty-first Birthday Tribute</title>
-				<feature></feature>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0025-0029</page>
 				<allauthors>
@@ -85511,8 +85511,8 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Shri Anandilal Bansidhar Podar: A Centenary Tribute</title>
-				<feature></feature>
+				<title num="">Shri Anandilal Bansidhar Podar</title>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0043-0049</page>
 				<allauthors>
@@ -86182,8 +86182,8 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Kulapati Dr. K. M. Munshi: A Tribute</title>
-				<feature></feature>
+				<title num="">Kulapati Dr. K. M. Munshi</title>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0025-0033</page>
 				<allauthors>
@@ -87013,7 +87013,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Maharshi Dayananda Saraswati: A Centenary Celebrations Tribute</title>
-				<feature></feature>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0016-0018</page>
 				<allauthors />
@@ -88077,8 +88077,8 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Have a Heart: Towards Your Heart &#8212; An Interview</title>
-				<feature></feature>
+				<title num="">Have a Heart: Towards Your Heart</title>
+				<feature>Interview</feature>
 				<series></series>
 				<page>0019-0024</page>
 				<allauthors />
@@ -88585,8 +88585,8 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Hari Swings Alone</title>
-				<feature></feature>
-				<series>A Fifth Centenary Tribute</series>
+				<feature>A Tribute</feature>
+				<series></series>
 				<page>0033-0033</page>
 				<allauthors />
 			</entry>
@@ -88645,9 +88645,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="03">Gunabadra</title>
+				<title num="03">Gunabhadra</title>
 				<feature></feature>
-				<series>Gunabadra</series>
+				<series>Gunabhadra</series>
 				<page>0065-0069</page>
 				<allauthors>
 					<author type="0">Subramanian, V. K.</author>
@@ -88779,9 +88779,9 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="04">Gunabadra</title>
+				<title num="04">Gunabhadra</title>
 				<feature></feature>
-				<series>Gunabadra</series>
+				<series>Gunabhadra</series>
 				<page>0061-0063</page>
 				<allauthors>
 					<author type="0">Subramanian, V. K.</author>
@@ -89341,9 +89341,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Hinduism in Retrospect &amp; Prospect-1 As I See It-2</title>
+				<title num="">Hinduism in Retrospect and Prospect-1 As I See It-2</title>
 				<feature></feature>
-				<series>Hinduism in Retrospect &amp; Prospect</series>
+				<series>Hinduism in Retrospect and Prospect</series>
 				<page>0050-0056</page>
 				<allauthors>
 					<author type="0">Chinmayananda, Swami</author>
@@ -89565,9 +89565,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Hinduism in Retrospect &amp; Prospect-II As I See It-2</title>
+				<title num="">Hinduism in Retrospect and Prospect-II As I See It-2</title>
 				<feature></feature>
-				<series>Hinduism in Retrospect &amp; Prospect</series>
+				<series>Hinduism in Retrospect and Prospect</series>
 				<page>0039-0043</page>
 				<allauthors>
 					<author type="0">Tatachariar, Agnihotram Ramanuja</author>
@@ -89601,9 +89601,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Religion in the Light of Reason &amp; Science</title>
+				<title num="">Religion in the Light of Reason and Science</title>
 				<feature></feature>
-				<series></series>
+				<series>Religion in the Light of Reason and Science</series>
 				<page>0058-0065</page>
 				<allauthors>
 					<author type="0">Lal, Shri R. B.</author>
@@ -89683,18 +89683,18 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Hinduism in Retrospect &amp; Prospect-III As I See It</title>
+				<title num="">Hinduism in Retrospect and Prospect-III As I See It</title>
 				<feature></feature>
-				<series>Hinduism in Retrospect &amp; Prospect</series>
+				<series>Hinduism in Retrospect and Prospect</series>
 				<page>0032-0037</page>
 				<allauthors>
 					<author type="0">Swamigal, Sri-La-Sri Pandrimalai</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="06">Vaakryavritti</title>
+				<title num="06">Vaakyavritti</title>
 				<feature></feature>
-				<series>Vaakryavritti</series>
+				<series>Vaakyavritti</series>
 				<page>0039-0041</page>
 				<allauthors>
 					<author type="0">Chinmayananda, Swami</author>
@@ -89719,9 +89719,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="10">Religion in the Light of Reason &amp; Science</title>
+				<title num="10">Religion in the Light of Reason and Science</title>
 				<feature></feature>
-				<series>Religion in the Light of Reason &amp; Science</series>
+				<series>Religion in the Light of Reason and Science</series>
 				<page>0055-0061</page>
 				<allauthors>
 					<author type="0">Lal, Shri R. B.</author>
@@ -89810,7 +89810,7 @@ d			<entry>
 			<entry>
 				<title num="04">Hinduism in Retrospect and Prospect As I see It-I</title>
 				<feature></feature>
-				<series>Hinduism in Retrospect and Prospect As I see It</series>
+				<series>Hinduism in Retrospect and Prospect</series>
 				<page>0030-0034</page>
 				<allauthors>
 					<author type="0">Chdananda, Swami</author>
@@ -89844,9 +89844,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="11">Religion in the Light of Reason &amp; Science</title>
+				<title num="11">Religion in the Light of Reason and Science</title>
 				<feature></feature>
-				<series>Religion in the Light of Reason &amp; Science</series>
+				<series>Religion in the Light of Reason and Science</series>
 				<page>0047-0053</page>
 				<allauthors>
 					<author type="0">Lal, Shri R. B.</author>
@@ -89922,9 +89922,9 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="04">Hinduism in Retrospect &amp; Prospect As I See it-II</title>
+				<title num="04">Hinduism in Retrospect and Prospect As I See it-II</title>
 				<feature></feature>
-				<series>Hinduism in Retrospect &amp; Prospect</series>
+				<series>Hinduism in Retrospect and Prospect</series>
 				<page>0016-0021</page>
 				<allauthors>
 					<author type="0">Chidananda, Swami</author>
@@ -89947,18 +89947,18 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="08">Vakyavritti</title>
+				<title num="08">Vaakyavritti</title>
 				<feature></feature>
-				<series>Vakyavritti</series>
+				<series>Vaakyavritti</series>
 				<page>0031-0033</page>
 				<allauthors>
 					<author type="0">Chinmayananda, Swami</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="12">Religion in the Light of Reason &amp; Science</title>
+				<title num="12">Religion in the Light of Reason and Science</title>
 				<feature></feature>
-				<series>Religion in the Light of Reason &amp; Science</series>
+				<series>Religion in the Light of Reason and Science</series>
 				<page>0035-0040</page>
 				<allauthors>
 					<author type="0">Lal, R. B.</author>
@@ -90086,18 +90086,18 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Hinduism in Retrospect &amp; Prospect-5&#8212;As I See It-I</title>
+				<title num="">Hinduism in Retrospect and Prospect-5&#8212;As I See It-I</title>
 				<feature></feature>
-				<series>Hinduism in Retrospect &amp; Prospect</series>
+				<series>Hinduism in Retrospect and Prospect</series>
 				<page>0039-0043</page>
 				<allauthors>
 					<author type="0">Premi, Swami Sree Krishna</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="13">Religion in the Light of Reason &amp; Science</title>
+				<title num="13">Religion in the Light of Reason and Science</title>
 				<feature></feature>
-				<series>Religion in the Light of Reason &amp; Science</series>
+				<series>Religion in the Light of Reason and Science</series>
 				<page>0045-0050</page>
 				<allauthors>
 					<author type="0">Lal, Shri R. B.</author>
@@ -90170,9 +90170,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Hinduism in Retrospect &amp; Prospect-5 As I See It-II</title>
+				<title num="">Hinduism in Retrospect and Prospect-5 As I See It-II</title>
 				<feature></feature>
-				<series>Hinduism in Retrospect &amp; Prospect</series>
+				<series>Hinduism in Retrospect and Prospect</series>
 				<page>0031-0035</page>
 				<allauthors>
 					<author type="0">Premi, Swami Sree Krishna</author>
@@ -90188,9 +90188,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="14">Religion in the light of Reason &amp; Science</title>
+				<title num="14">Religion in the Light of Reason and Science</title>
 				<feature></feature>
-				<series>Religion in the light of Reason &amp; Science</series>
+				<series>Religion in the Light of Reason and Science</series>
 				<page>0039-0042</page>
 				<allauthors>
 					<author type="0">Lal, Shri R. B.</author>
@@ -90320,18 +90320,18 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Hinduism in Retrospect &amp; Prospect-6&#8212;As I see It-I</title>
+				<title num="">Hinduism in Retrospect and Prospect-6&#8212;As I see It-I</title>
 				<feature></feature>
-				<series>Hinduism in Retrospect &amp; Prospect</series>
+				<series>Hinduism in Retrospect and Prospect</series>
 				<page>0049-0054</page>
 				<allauthors>
 					<author type="0">Narasimhayya, Shri P.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="15">Religion in the Light of Reason &amp; Science</title>
+				<title num="15">Religion in the Light of Reason and Science</title>
 				<feature></feature>
-				<series>Religion in the Light of Reason &amp; Science</series>
+				<series>Religion in the Light of Reason and Science</series>
 				<page>0055-0060</page>
 				<allauthors>
 					<author type="0">Lal, Shri R. B.</author>
@@ -90422,9 +90422,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Hinduism in Retrospect &amp; Prospect-6&#8212;As I See It-II</title>
+				<title num="">Hinduism in Retrospect and Prospect-6&#8212;As I See It-II</title>
 				<feature></feature>
-				<series>Hinduism in Retrospect &amp; Prospect</series>
+				<series>Hinduism in Retrospect and Prospect</series>
 				<page>0029-0035</page>
 				<allauthors>
 					<author type="0">Narasimhayya, Shri P.</author>
@@ -90542,9 +90542,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Hinduism in Retrospect &amp; Prospect-6 As I See It-III</title>
+				<title num="">Hinduism in Retrospect and Prospect-6 As I See It-III</title>
 				<feature></feature>
-				<series>Hinduism in Retrospect &amp; Prospect</series>
+				<series>Hinduism in Retrospect and Prospect</series>
 				<page>0045-0051</page>
 				<allauthors>
 					<author type="0">Narasimhayya, Shri P.</author>
@@ -91016,9 +91016,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Hinduism in Retrospect &amp; Prospect-8 : As I See It</title>
+				<title num="">Hinduism in Retrospect and Prospect-8 : As I See It</title>
 				<feature></feature>
-				<series>Hinduism in Retrospect &amp; Prospect</series>
+				<series>Hinduism in Retrospect and Prospect</series>
 				<page>0036-0041</page>
 				<allauthors>
 					<author type="0">Dhebar, Shri U. N.</author>
@@ -91227,9 +91227,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Hinduism in Retrospect &amp; Prospect-9: As I See It I</title>
+				<title num="">Hinduism in Retrospect and Prospect-9: As I See It I</title>
 				<feature></feature>
-				<series>Hinduism in Retrospect &amp; Prospect</series>
+				<series>Hinduism in Retrospect and Prospect</series>
 				<page>0037-0043</page>
 				<allauthors>
 					<author type="0">Ayyangar, Shri M. Ananthasayanam</author>
@@ -91353,7 +91353,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">To Manikarnika Ghat</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0033-0038</page>
 				<allauthors>
@@ -91370,9 +91370,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Hinduism in Retrospect &amp; Prospect-9 As I See It-II</title>
+				<title num="">Hinduism in Retrospect and Prospect-9 As I See It-II</title>
 				<feature></feature>
-				<series>Hinduism in Retrospect &amp; Prospect</series>
+				<series>Hinduism in Retrospect and Prospect</series>
 				<page>0041-0046</page>
 				<allauthors>
 					<author type="0">Ayyangar, Shri M. Ananthasayanam</author>
@@ -91491,7 +91491,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Have you got money?</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0029-0034</page>
 				<allauthors>
@@ -91508,9 +91508,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Hinduism in Retrospect &amp; Prospect-10 As I See It</title>
+				<title num="">Hinduism in Retrospect and Prospect-10 As I See It</title>
 				<feature></feature>
-				<series>Hinduism in Retrospect &amp; Prospect</series>
+				<series>Hinduism in Retrospect and Prospect</series>
 				<page>0042-0050</page>
 				<allauthors>
 					<author type="0">Rao, Dr. V. K. R. V.</author>
@@ -91624,9 +91624,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Hinduism in Retrospect &amp; Prospect-11 As I See It</title>
+				<title num="">Hinduism in Retrospect and Prospect-11 As I See It</title>
 				<feature></feature>
-				<series>Hinduism in Retrospect &amp; Prospect</series>
+				<series>Hinduism in Retrospect and Prospect</series>
 				<page>0043-0053</page>
 				<allauthors>
 					<author type="0">Gajendragadkar, Dr. P. B.</author>
@@ -91634,7 +91634,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Have You Got Money?</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0054-0060</page>
 				<allauthors>
@@ -91652,7 +91652,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Tribute to Dr. Sir A. Ramaswami Mudaliar</title>
-				<feature></feature>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0073-0076</page>
 				<allauthors />
@@ -91856,7 +91856,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">The Revelation</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0212-0223</page>
 				<allauthors>
@@ -91957,7 +91957,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">S. R. Tikekar : Platinum Jubilee Tribute</title>
-				<feature></feature>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0055-0056</page>
 				<allauthors>
@@ -92034,9 +92034,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="20">Vaakryavritti</title>
+				<title num="20">Vaakyavritti</title>
 				<feature></feature>
-				<series>Vaakryavritti</series>
+				<series>Vaakyavritti</series>
 				<page>0021-0022</page>
 				<allauthors>
 					<author type="0">Chinmayananda, Swami</author>
@@ -92318,7 +92318,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">You</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0047-0056</page>
 				<allauthors>
@@ -92561,7 +92561,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Vande Mataram</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0162-0192</page>
 				<allauthors>
@@ -92752,7 +92752,7 @@ d			<entry>
 			<entry>
 				<title num="02">Education : Key to Russia's Success</title>
 				<feature></feature>
-				<series>World-wide Trends in Education</series>
+				<series>Worldwide Trends in Education</series>
 				<page>0029-0044</page>
 				<allauthors>
 					<author type="0">Joshi, Shri R. N.</author>
@@ -92871,7 +92871,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">The Mother</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0031-0034</page>
 				<allauthors>
@@ -92890,7 +92890,7 @@ d			<entry>
 			<entry>
 				<title num="03">World-wide Trends in Education : Japan</title>
 				<feature></feature>
-				<series>World-Wide Trends in Education</series>
+				<series>Worldwide Trends in Education</series>
 				<page>0041-0045</page>
 				<allauthors>
 					<author type="0">Joshi, R. N.</author>
@@ -93294,7 +93294,7 @@ d			<entry>
 			<entry>
 				<title num="">World-wide Trends in Education-3 :  Japan-2</title>
 				<feature></feature>
-				<series>World-Wide Trends in Education</series>
+				<series>Worldwide Trends in Education</series>
 				<page>0048-0056</page>
 				<allauthors>
 					<author type="0">Joshi, R. N.</author>
@@ -93481,7 +93481,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">140th Birth Anniversary Tribute&#8212;Sri Ramakrishna &#8212; The Great Explorer</title>
-				<feature></feature>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0013-0019</page>
 				<allauthors>
@@ -93654,7 +93654,7 @@ d			<entry>
 			<entry>
 				<title num="04">World-Wide Trends in Education : U.S.A.</title>
 				<feature></feature>
-				<series>World-Wide Trends in Education</series>
+				<series>Worldwide Trends in Education</series>
 				<page>0035-0041</page>
 				<allauthors>
 					<author type="0">Joshi, R. N.</author>
@@ -94080,7 +94080,7 @@ d			<entry>
 			<entry>
 				<title num="04">Education in U.S.A.</title>
 				<feature></feature>
-				<series>World-Wide Trends in Education</series>
+				<series>Worldwide Trends in Education</series>
 				<page>0048-0056</page>
 				<allauthors>
 					<author type="0">Joshi, R. N.</author>
@@ -94365,7 +94365,7 @@ d			<entry>
 			<entry>
 				<title num="06">Gujarat-no Nath</title>
 				<feature></feature>
-				<series>Condensation of Kulapati Munshi's Works-3</series>
+				<series>Condensation of Kulapati Munshi's Works</series>
 				<page>0049-0055</page>
 				<allauthors>
 					<author type="0">Munshi, K. M.</author>
@@ -96175,7 +96175,7 @@ d			<entry>
 			<entry>
 				<title num="01">The Grace and Glory of the Divine Mother</title>
 				<feature></feature>
-				<series>The Grace and Glory of the Divine Mother</series>
+				<series>Grace and Glory of the Divine Mother</series>
 				<page>0049-0060</page>
 				<allauthors>
 					<author type="0">Iyengar, Dr. K. R. Srinivasa</author>
@@ -96299,7 +96299,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">A Tribute to Udayshankar</title>
-				<feature></feature>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0171-0175</page>
 				<allauthors>
@@ -96339,7 +96339,7 @@ d			<entry>
 			<entry>
 				<title num="02">The Grace and Glory of the Divine Mother</title>
 				<feature></feature>
-				<series>The Grace and Glory of the Divine Mother</series>
+				<series>Grace and Glory of the Divine Mother</series>
 				<page>0015-0021</page>
 				<allauthors>
 					<author type="0">Iyengar, Dr. K. R. Srinivasa</author>
@@ -96510,7 +96510,7 @@ d			<entry>
 			<entry>
 				<title num="03">The Grace and Glory of the Divine Mother</title>
 				<feature></feature>
-				<series>The Grace and Glory of the Divine Mother</series>
+				<series>Grace and Glory of the Divine Mother</series>
 				<page>0025-0028</page>
 				<allauthors>
 					<author type="0">Iyengar, Dr. K. R. Srinivasa</author>
@@ -96968,7 +96968,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Sati Kirthisena</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0065-0072</page>
 				<allauthors>
@@ -97009,7 +97009,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">JP clarifies Total Revolution &#8212; an interview with Dr. R. R. Diwakar</title>
-				<feature></feature>
+				<feature>Interview</feature>
 				<series></series>
 				<page>0015-0023</page>
 				<allauthors />
@@ -97070,7 +97070,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">The Deluge</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0051-0055</page>
 				<allauthors>
@@ -97164,9 +97164,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="08">Grace and Glory of Divine Mother</title>
+				<title num="08">Grace and Glory of the Divine Mother</title>
 				<feature></feature>
-				<series>Grace and Glory of Divine Mother</series>
+				<series>Grace and Glory of the Divine Mother</series>
 				<page>0025-0031</page>
 				<allauthors />
 			</entry>
@@ -97615,7 +97615,7 @@ d			<entry>
 			<entry>
 				<title num="01">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0013-0020</page>
 				<allauthors>
 					<author type="0">Ursekar, H. S.</author>
@@ -97847,7 +97847,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Dr. Shantilal Mehta</title>
-				<feature>An Interview</feature>
+				<feature>Interview</feature>
 				<series></series>
 				<page>0016-0024</page>
 				<allauthors />
@@ -97900,7 +97900,7 @@ d			<entry>
 			<entry>
 				<title num="03">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0062-0066</page>
 				<allauthors>
 					<author type="0">Ursekar, H. S.</author>
@@ -97953,13 +97953,13 @@ d			<entry>
 			<entry>
 				<title num="04">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0008-0015</page>
 				<allauthors />
 			</entry>
 			<entry>
 				<title num="">Interview with Dr. Shantilal Mehta (Concluded)</title>
-				<feature></feature>
+				<feature>Interview</feature>
 				<series></series>
 				<page>0017-0023</page>
 				<allauthors />
@@ -98097,9 +98097,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="13">The Grace and Glory of Divine Mother</title>
+				<title num="13">The Grace and Glory of the Divine Mother</title>
 				<feature></feature>
-				<series>The Grace and Glory of Divine Mother</series>
+				<series>Grace and Glory of the Divine Mother</series>
 				<page>0025-0027</page>
 				<allauthors>
 					<author type="0">Iyengar, Dr. K. R. Srinivasa</author>
@@ -98117,7 +98117,7 @@ d			<entry>
 			<entry>
 				<title num="05">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0038-0044</page>
 				<allauthors>
 					<author type="0">Ursekar, H. S.</author>
@@ -98210,7 +98210,7 @@ d			<entry>
 			<entry>
 				<title num="06">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0009-0016</page>
 				<allauthors />
 			</entry>
@@ -98390,9 +98390,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="07">Song of Sri Rama</title>
+				<title num="07">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0025-0032</page>
 				<allauthors />
 			</entry>
@@ -98425,7 +98425,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Transition</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0050-0056</page>
 				<allauthors>
@@ -98529,9 +98529,9 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="09">Song of Sri Rama</title>
+				<title num="09">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0009-0013</page>
 				<allauthors>
 					<author type="0">Ursekar, H. S.</author>
@@ -98744,9 +98744,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="01">Medical Wisdom of Sri Ramakrishna</title>
+				<title num="01">Medical Wisdom of Sri Ramakrishna Paramahamsa</title>
 				<feature></feature>
-				<series>Medical Wisdom of Sri Ramakrishna</series>
+				<series>Medical Wisdom of Sri Ramakrishna Paramahamsa</series>
 				<page>0074-0085</page>
 				<allauthors>
 					<author type="0">Vaidya, Dr. Ashok B.</author>
@@ -98853,7 +98853,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Sun-God</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0230-0237</page>
 				<allauthors>
@@ -98913,9 +98913,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="10">Song of Sri Rama</title>
+				<title num="10">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0025-0027</page>
 				<allauthors>
 					<author type="0">Ursekar, H. S.</author>
@@ -98949,9 +98949,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="02">Medical Wisdom of Sri Ramakrishna</title>
+				<title num="02">Medical Wisdom of Sri Ramakrishna Paramahamsa</title>
 				<feature></feature>
-				<series>Medical Wisdom of Sri Ramakrishna</series>
+				<series>Medical Wisdom of Sri Ramakrishna Paramahamsa</series>
 				<page>0054-0057</page>
 				<allauthors>
 					<author type="0">Vaidya, Dr. Ashok B.</author>
@@ -99015,18 +99015,18 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="03">Medical Wisdom of Sri Ramakrishna</title>
+				<title num="03">Medical Wisdom of Sri Ramakrishna Paramahamsa</title>
 				<feature></feature>
-				<series>Medical Wisdom of Sri Ramakrishna</series>
+				<series>Medical Wisdom of Sri Ramakrishna Paramahamsa</series>
 				<page>0015-0017</page>
 				<allauthors>
 					<author type="0">Vaidya, Dr. Ashok B.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="11">Song of Sri Rama</title>
+				<title num="11">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0019-0023</page>
 				<allauthors>
 					<author type="0">Ursekar, H. S.</author>
@@ -99267,9 +99267,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="12">Song of Sri Rama</title>
+				<title num="12">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0018-0021</page>
 				<allauthors>
 					<author type="0">Ursekar H. S.</author>
@@ -99613,9 +99613,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="13">Song of Sri Rama</title>
+				<title num="13">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0025-0029</page>
 				<allauthors>
 					<author type="0">Ursekar, H. S.</author>
@@ -99701,9 +99701,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="14">Song of Sri Rama</title>
+				<title num="14">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0025-0029</page>
 				<allauthors>
 					<author type="0">Ursekar, H. S.</author>
@@ -99787,9 +99787,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="15">Song of Sri Rama</title>
+				<title num="15">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0013-0014</page>
 				<allauthors>
 					<author type="0">Ursekar, H. S.</author>
@@ -100043,9 +100043,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="16">Song of Sri Rama</title>
+				<title num="16">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0033-0035</page>
 				<allauthors>
 					<author type="0">Ursekar, H. S.</author>
@@ -100221,7 +100221,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">A Civil Servant's Tribute</title>
-				<feature></feature>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0020-0024</page>
 				<allauthors>
@@ -100256,9 +100256,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="17">Song of Sri Rama</title>
+				<title num="17">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0057-0058</page>
 				<allauthors>
 					<author type="0">Ursekar, H. S.</author>
@@ -100313,9 +100313,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="18">Song of Sri Rama</title>
+				<title num="18">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0036-0039</page>
 				<allauthors>
 					<author type="0">Ursekar, H. S.</author>
@@ -100379,9 +100379,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="19">Song of Sri Rama</title>
+				<title num="19">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0021-0024</page>
 				<allauthors>
 					<author type="0">Ursekar, H. S.</author>
@@ -100395,9 +100395,9 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="37">Great Artistes : William Turner</title>
+				<title num="37">William Turner</title>
 				<feature></feature>
-				<series>Great Artist</series>
+				<series>Great Artists</series>
 				<page>0036-0043</page>
 				<allauthors>
 					<author type="0">Subramanian, V. K.</author>
@@ -100497,9 +100497,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="20">Song of Sri Rama</title>
+				<title num="20">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0043-0049</page>
 				<allauthors>
 					<author type="0">Ursekar, H. S.</author>
@@ -100610,9 +100610,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="21">Song of Sri Rama</title>
+				<title num="21">Song of Srirama</title>
 				<feature></feature>
-				<series>Song of Sri Rama</series>
+				<series>Song of Srirama</series>
 				<page>0033-0037</page>
 				<allauthors>
 					<author type="0">Ursekar, H. S.</author>
@@ -101597,9 +101597,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Medical Wisdom of Sri Ramakrishna</title>
+				<title num="">Medical Wisdom of Sri Ramakrishna Paramahamsa</title>
 				<feature></feature>
-				<series></series>
+				<series>Medical Wisdom of Sri Ramakrishna Paramahamsa</series>
 				<page>0043-0049</page>
 				<allauthors>
 					<author type="0">Vaidya, Dr. Ashok B.</author>
@@ -102181,7 +102181,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">An Interview with Swami Ranganathananda</title>
-				<feature></feature>
+				<feature>Interview</feature>
 				<series></series>
 				<page>0024-0032</page>
 				<allauthors>
@@ -102520,9 +102520,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="05">Medical Wisdom of Ramakrishna Paramahamsa</title>
+				<title num="05">Medical Wisdom of Sri Ramakrishna Paramahamsa</title>
 				<feature></feature>
-				<series>Medical Wisdom of Ramakrishna Paramahamsa</series>
+				<series>Medical Wisdom of Sri Ramakrishna Paramahamsa</series>
 				<page>0073-0080</page>
 				<allauthors>
 					<author type="0">Vaidya, Dr. Ashok B.</author>
@@ -102580,7 +102580,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Tribute to Lord Mountbatten</title>
-				<feature></feature>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0009-0014</page>
 				<allauthors>
@@ -104680,7 +104680,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">A Woollen Suit and Some Tears</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0043-0045</page>
 				<allauthors>
@@ -106803,8 +106803,8 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">A. S. Bharatan : A Tribute</title>
-				<feature></feature>
+				<title num="">A. S. Bharatan</title>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0012-0018</page>
 				<allauthors>
@@ -108906,7 +108906,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Just a Flower (Story)</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0033-0039</page>
 				<allauthors>
@@ -109042,7 +109042,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Gift</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0036-0039</page>
 				<allauthors>
@@ -109813,7 +109813,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">If Ye have a Grain of Faith</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0027-0030</page>
 				<allauthors>
@@ -111394,9 +111394,9 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="01">Economic Reform and the Poor</title>
+				<title num="01">Economic Reforms and the Poor</title>
 				<feature></feature>
-				<series>Economic Reform and the Poor</series>
+				<series>Economic Reforms and the Poor</series>
 				<page>0035-0039</page>
 				<allauthors>
 					<author type="0">Fischer, Stanley</author>
@@ -111421,8 +111421,8 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="01">Interview : Manoj Das</title>
-				<feature></feature>
+				<title num="01">Manoj Das</title>
+				<feature>Interview</feature>
 				<series>A Versatile Writer</series>
 				<page>0059-0065</page>
 				<allauthors>
@@ -111552,7 +111552,7 @@ d			<entry>
 			<entry>
 				<title num="">Yuddhakanda</title>
 				<feature></feature>
-				<series>Valmiki Ramayaya</series>
+				<series>Valmiki Ramayana</series>
 				<page>0036-0037</page>
 				<allauthors />
 			</entry>
@@ -111745,8 +111745,8 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="02">Interview : Manoj Das</title>
-				<feature></feature>
+				<title num="02">Manoj Das</title>
+				<feature>Interview</feature>
 				<series>A Versatile Writer</series>
 				<page>0057-0060</page>
 				<allauthors>
@@ -112209,7 +112209,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Forsaken Children</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0063-0066</page>
 				<allauthors>
@@ -112578,7 +112578,7 @@ d			<entry>
 			<entry>
 				<title num="">V. K. Krishna Menon : A Human Volcano</title>
 				<feature></feature>
-				<series>Salutations to Centenorians</series>
+				<series>Salutations to Centenarians</series>
 				<page>0041-0047</page>
 				<allauthors>
 					<author type="0">Nair, M. K. B.</author>
@@ -113477,7 +113477,7 @@ d			<entry>
 			<entry>
 				<title num="02">Meditation</title>
 				<feature></feature>
-				<series>Swami Krishnanda's Expositions</series>
+				<series>Swami Krishnananda's Expositions</series>
 				<page>0051-0053</page>
 				<allauthors>
 					<author type="0">V. S. R. K.</author>
@@ -114884,7 +114884,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Crabs, Crabs</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0063-0066</page>
 				<allauthors>
@@ -115377,7 +115377,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Poetry is on the Side of Love &#8212; An Interview with Izet Sarajlic</title>
-				<feature></feature>
+				<feature>Interview</feature>
 				<series></series>
 				<page>0062-0066</page>
 				<allauthors />
@@ -116029,7 +116029,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">A Journey Down South</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0049-0057</page>
 				<allauthors>
@@ -116217,7 +116217,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">The Mouse</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0077-0080</page>
 				<allauthors>
@@ -116484,9 +116484,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Congress Radio of 1942</title>
+				<title num="01">The Congress Radio of 1942</title>
 				<feature></feature>
-				<series>Memoirs of Dr. Usha Mehta</series>
+				<series>Memories of Dr. Usha Mehta</series>
 				<page>0035-0044</page>
 				<allauthors />
 			</entry>
@@ -116672,9 +116672,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">The Congress Radio of 1942 (Part II)</title>
+				<title num="02">The Congress Radio of 1942</title>
 				<feature></feature>
-				<series>Memoirs of Dr. Usha Mehta</series>
+				<series>Memories of Dr. Usha Mehta</series>
 				<page>0067-0076</page>
 				<allauthors />
 			</entry>
@@ -116804,7 +116804,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Father and Son</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0171-0182</page>
 				<allauthors>
@@ -117022,7 +117022,7 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">The Congress Radio of 1942 (Part III)</title>
+				<title num="03">The Congress Radio of 1942</title>
 				<feature></feature>
 				<series>Memories of Dr. Usha Mehta</series>
 				<page>0021-0027</page>
@@ -117402,7 +117402,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">The Home-coming</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0080-0083</page>
 				<allauthors>
@@ -118096,7 +118096,7 @@ d			<entry>
 			<entry>
 				<title num="">Justice A. S. P. Ayyar</title>
 				<feature></feature>
-				<series>Salutation to Centenarians</series>
+				<series>Salutations to Centenarians</series>
 				<page>0047-0053</page>
 				<allauthors />
 			</entry>
@@ -118151,8 +118151,8 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Ashok Kumar Jain - A Tribute</title>
-				<feature></feature>
+				<title num="">Ashok Kumar Jain</title>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0080-0081</page>
 				<allauthors>
@@ -118483,8 +118483,8 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Dr. C. Anna Rao : A Tribute</title>
-				<feature></feature>
+				<title num="">Dr. C. Anna Rao</title>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0015-0015</page>
 				<allauthors>
@@ -118835,7 +118835,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">The Spark and the Glow</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0219-0228</page>
 				<allauthors>
@@ -118844,7 +118844,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Wrecked Homes</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0229-0235</page>
 				<allauthors>
@@ -118991,7 +118991,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">The Indomitable Twelve</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0105-0117</page>
 				<allauthors>
@@ -120901,9 +120901,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="01">Core Comcepts of Vedanta in Gita</title>
+				<title num="01">Core Concepts of Vedanta in Gita</title>
 				<feature></feature>
-				<series>Core Comcepts of Vedanta in Gita</series>
+				<series>Core Cocepts of Vedanta in Gita</series>
 				<page>0040-0044</page>
 				<allauthors>
 					<author type="0">Rajan, P. Govinda</author>
@@ -122397,9 +122397,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">How Divine Life Society of South Africa was formed-II</title>
+				<title num="02">How Divine Life Society of South Africa was Formed</title>
 				<feature></feature>
-				<series>How Divine Life Society of South Africa was formed</series>
+				<series>How Divine Life Society of South Africa was Formed</series>
 				<page>0056-0063</page>
 				<allauthors>
 					<author type="0">Sahajananda, Swami</author>
@@ -122549,9 +122549,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">How Divine Life Society of South Africa was formed&#8212;III</title>
+				<title num="03">How Divine Life Society of South Africa was Formed</title>
 				<feature></feature>
-				<series></series>
+				<series>How Divine Life Society of South Africa was Formed</series>
 				<page>0030-0038</page>
 				<allauthors>
 					<author type="0">Sahajananda, Swami</author>
@@ -122948,9 +122948,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="01">Vedanta&#8212;Science of Reality</title>
+				<title num="01">Vedanta-Science of Reality</title>
 				<feature></feature>
-				<series>Vedanta&#8212;Science of Reality</series>
+				<series>Vedanta-Science of Reality</series>
 				<page>0032-0034</page>
 				<allauthors>
 					<author type="0">Prasad, Prof. Siddeshwar</author>
@@ -124057,8 +124057,8 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">Centenary Tribute : T. Sadasivam</title>
-				<feature></feature>
+				<title num="">T. Sadasivam</title>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0051-0055</page>
 				<allauthors>
@@ -124433,7 +124433,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">My Association with Lokanayak</title>
-				<feature>Centenary Tribute</feature>
+				<feature>A Tribute</feature>
 				<series></series>
 				<page>0028-0032</page>
 				<allauthors>
@@ -124675,9 +124675,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="22">Gandhi and His Balancing Scale</title>
+				<title num="22">Gandhi and His Balancing Scales</title>
 				<feature></feature>
-				<series>Gandhi and His Balancing Scale</series>
+				<series>Gandhi and His Balancing Scales</series>
 				<page>0059-0062</page>
 				<allauthors>
 					<author type="0">Dave, Harindra</author>
@@ -124948,7 +124948,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Youthful Strides</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0072-0076</page>
 				<allauthors>
@@ -125601,7 +125601,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">The cobbler of Baghdad</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0087-0089</page>
 				<allauthors>
@@ -125996,7 +125996,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">The Right Time</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0078-0081</page>
 				<allauthors>
@@ -126171,7 +126171,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">The Pundit and his Guide (?)</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0083-0085</page>
 				<allauthors>
@@ -126511,7 +126511,7 @@ d			<entry>
 			<entry>
 				<title num="">Sweat You must to Eat Your Bread</title>
 				<feature></feature>
-				<series>Ganshi Upanishad</series>
+				<series>Gandhiupanishad</series>
 				<page>0033-0034</page>
 				<allauthors>
 					<author type="0">Krishnamurthi, Mathoor</author>
@@ -126822,7 +126822,7 @@ d			<entry>
 			</entry>
 			<entry>
 				<title num="">Rabia's Divine Lamp</title>
-				<feature>A Short Story</feature>
+				<feature>Short Story</feature>
 				<series></series>
 				<page>0069-0072</page>
 				<allauthors>
@@ -126988,9 +126988,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="01">Saints, Scriptures and Superstition</title>
+				<title num="01">Saints, Scriptures and Superstitions</title>
 				<feature></feature>
-				<series>Saints, Scriptures and Superstition</series>
+				<series>Saints, Scriptures and Superstitions</series>
 				<page>0050-0055</page>
 				<allauthors>
 					<author type="0">Manian, V. V. S.</author>
