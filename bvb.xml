@@ -31677,10 +31677,19 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="79">(1) Memories of Paris (2) Sheela in Bombay</title>
+				<title num="79">Memories of Paris</title>
 				<feature></feature>
 				<series>Tapasvini (Part - III)</series>
-				<page>0057-0066</page>
+				<page>0057-0063</page>
+				<allauthors>
+					<author type="0">Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="80">Sheela in Bombay</title>
+				<feature></feature>
+				<series>Tapasvini (Part - III)</series>
+				<page>0063-0066</page>
 				<allauthors>
 					<author type="0">Munshi, K. M.</author>
 				</allauthors>
@@ -40007,10 +40016,19 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">(1) Vilasvati (2) Bhillam's Helplessness</title>
+				<title num="01">Vilasvati</title>
 				<feature></feature>
 				<series>Prithvi Vallabh</series>
-				<page>0068-0074</page>
+				<page>0068-0072</page>
+				<allauthors>
+					<author type="0">Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="02">Bhillam's Helplessness</title>
+				<feature></feature>
+				<series>Prithvi Vallabh</series>
+				<page>0072-0074</page>
 				<allauthors>
 					<author type="0">Munshi, K. M.</author>
 				</allauthors>
@@ -42946,10 +42964,19 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="21">(1) Ruffled Feathers (2) Unhappy Vilas</title>
+				<title num="21">Ruffled Feathers</title>
 				<feature></feature>
 				<series>Prithvi Vallabh</series>
-				<page>0066-0068</page>
+				<page>0066-0067</page>
+				<allauthors>
+					<author type="0">Munshi, K. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title num="22">Unhappy Vilas</title>
+				<feature></feature>
+				<series>Prithvi Vallabh</series>
+				<page>0067-0068</page>
 				<allauthors>
 					<author type="0">Munshi, K. M.</author>
 				</allauthors>
@@ -54482,7 +54509,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="">..Without Comment</title>
+				<title num="">...Without Comment</title>
 				<feature>Without Comment</feature>
 				<series></series>
 				<page>0079-0080</page>
@@ -88457,9 +88484,9 @@ d			<entry>
 				</allauthors>
 			</entry>
 			<entry>
-				<title num="02"> A Visit to the Land of the Lapps (concluded)</title>
+				<title num="">A Visit to the Land of the Lapps (concluded)</title>
 				<feature></feature>
-				<series>A Visit to the Land of the Lapps</series>
+				<series></series>
 				<page>0049-0053</page>
 				<allauthors>
 					<author type="0">Narayanaswami, Smt. Visalakshi</author>
@@ -92800,7 +92827,7 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Echoes from Eternity</title>
+				<title num="">God in All Faiths</title>
 				<feature>Echoes from Eternity</feature>
 				<series></series>
 				<page>0012-0013</page>
@@ -92938,7 +92965,7 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Echoes from Eternity</title>
+				<title num="">When Distractions Assail You</title>
 				<feature>Echoes from Eternity</feature>
 				<series></series>
 				<page>0012-0013</page>
@@ -93564,7 +93591,7 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Echoes from Eternity</title>
+				<title num="">Utter thou the Name of the Creator</title>
 				<feature>Echoes from Eternity</feature>
 				<series></series>
 				<page>0012-0013</page>
@@ -93709,7 +93736,7 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Echoes from Eternity</title>
+				<title num="">Character</title>
 				<feature>Echoes from Eternity</feature>
 				<series></series>
 				<page>0012-0012</page>
@@ -93831,7 +93858,7 @@ d			<entry>
 				<allauthors />
 			</entry>
 			<entry>
-				<title num="">Echoes from Eternity : The True Saint</title>
+				<title num="">The True Saint</title>
 				<feature>Echoes from Eternity</feature>
 				<series></series>
 				<page>0008-0008</page>
@@ -98483,15 +98510,6 @@ d			<entry>
 				<feature>Book Review</feature>
 				<series></series>
 				<page>0077-0080</page>
-				<allauthors />
-			</entry>
-		</part>
-		<part pnum="25" date="16" month="07" year="1978" cover="">%missing
-			<entry>
-				<title num=""></title>
-				<feature></feature>
-				<series></series>
-				<page>0000-0000</page>
 				<allauthors />
 			</entry>
 		</part>
