@@ -26,7 +26,7 @@ while($line)
 	if($line =~ /<feature>(.*)<\/feature>/)
 	{
 		$feat_name = $1;
-		insert_feature($feat_name);		
+		insert_feature($feat_name);
 	}
 	$line = <IN>;
 }

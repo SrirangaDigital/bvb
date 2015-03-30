@@ -18,20 +18,19 @@ $sth11d=$dbh->prepare("DROP TABLE IF EXISTS article");
 $sth11d->execute();
 $sth11d->finish();
 
-$sth11r=$dbh->prepare("CREATE TABLE article(title varchar(500), 
+$sth11r=$dbh->prepare("CREATE TABLE article(title varchar(500),
 tnum varchar(10),
 authid varchar(200),
 authorname varchar(1000),
 featid varchar(10),
+seriesid varchar(10),
 page varchar(10), 
-page_end varchar(100), 
+page_end varchar(10), 
 volume varchar(3),
 part varchar(10),
 year varchar(10), 
 month varchar(10),
 date varchar(10),
-cover varchar(100),
-series varchar(500),
 titleid varchar(30), primary key(titleid)) ENGINE=MyISAM");
 $sth11r->execute();
 $sth11r->finish();
@@ -51,7 +50,6 @@ while($line)
 		$date = $2;
 		$month = $3;
 		$year = $4;
-		$cover = $5;
 		$count = 0;
 		$prev_pages = "";
 	}	
@@ -64,10 +62,11 @@ while($line)
 	{
 		$feature = $1;
 		$featid = get_featid($feature);
-	}
+	}	
 	elsif($line =~ /<series>(.*)<\/series>/)
 	{
 		$series = $1;
+		$seriesid = get_seriesid($series);
 	}	
 	elsif($line =~ /<page>(.*)<\/page>/)
 	{
@@ -81,32 +80,34 @@ while($line)
 		else
 		{
 			$id = "bvb_" . $volume . "_" . $part . "_" . $page . "_" . $page_end . "_0";
-			$count = 0;		
+			$count = 0;
 		}
 		$prev_pages = $pages;
-		if ($page_end)
-		 {
-	   } 
-		else {
+		if($page_end)
+		{
+		} 
+		else
+		{
 			$page_end = $page;
 		}
-	}	
-	elsif($line =~ /<author>(.*)<\/author>/)
+	}
+	elsif($line =~ /<author type="(.*)">(.*)<\/author>/)
 	{
-		$authorname = $1;
+		$authorname = $2;
 		$authids = $authids . ";" . get_authid($authorname);
 		$author_name = $author_name . ";" .$authorname;
 	}
-	elsif($line =~ /<allauthors\/>/)
+	elsif($line =~ /<allauthors \/>/)
 	{
 		$authids = "0";
 		$author_name = "";
 	}
 	elsif($line =~ /<\/entry>/)
 	{
-		insert_article($title,$tnum,$authids,$author_name,$featid,$page,$page_end,$volume,$part,$year,$month,$date,$cover,$series,$id);
+		insert_article($title,$tnum,$authids,$author_name,$featid,$seriesid,$page,$page_end,$volume,$part,$year,$month,$date,$id);
 		$authids = "";
 		$featid = "";
+		$seriesid = "";
 		$author_name = "";
 		$id = "";
 	}
@@ -118,17 +119,15 @@ $dbh->disconnect();
 
 sub insert_article()
 {
-	my($title,$tnum,$authids,$author_name,$featid,$page,$page_end,$volume,$part,$year,$month,$date,$cover,$series,$id) = @_;
+	my($title,$tnum,$authids,$author_name,$featid,$seriesid,$page,$page_end,$volume,$part,$year,$month,$date,$id) = @_;
 	my($sth1);
 
 	$title =~ s/'/\\'/g;
-	$series =~ s/'/\\'/g;
-	$cover =~ s/'/\\'/g;
 	$authids =~ s/^;//;
 	$author_name =~ s/^;//;
 	$author_name =~ s/'/\\'/g;
 	
-	$sth1=$dbh->prepare("insert into article values('$title','$tnum','$authids','$author_name','$featid','$page','$page_end','$volume','$part','$year','$month','$date','$cover','$series','$id')");
+	$sth1=$dbh->prepare("insert into article values('$title','$tnum','$authids','$author_name','$featid','$seriesid','$page','$page_end','$volume','$part','$year','$month','$date','$id')");
 	
 	$sth1->execute();
 	$sth1->finish();
@@ -143,7 +142,7 @@ sub get_authid()
 	
 	$sth=$dbh->prepare("select authid from author where authorname='$authorname'");
 	$sth->execute();
-			
+
 	my $ref = $sth->fetchrow_hashref();
 	$authid = $ref->{'authid'};
 	$sth->finish();
@@ -159,9 +158,25 @@ sub get_featid()
 	
 	$sth=$dbh->prepare("select featid from feature where feat_name='$feature'");
 	$sth->execute();
-			
+
 	my $ref = $sth->fetchrow_hashref();
 	$featid = $ref->{'featid'};
 	$sth->finish();
 	return($featid);
+}
+
+sub get_seriesid()
+{
+	my($series) = @_;
+	my($sth,$ref,$seriesid);
+
+	$series =~ s/'/\\'/g;
+	
+	$sth=$dbh->prepare("select seriesid from series where series_name='$series'");
+	$sth->execute();
+
+	my $ref = $sth->fetchrow_hashref();
+	$seriesid = $ref->{'seriesid'};
+	$sth->finish();
+	return($seriesid);
 }
