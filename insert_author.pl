@@ -10,6 +10,7 @@ use DBI();
 open(IN,"<:utf8","bvb.xml") or die "can't open bvb.xml\n";
 
 my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
+
 $sth_enc=$dbh->prepare("set names utf8");
 $sth_enc->execute();
 $sth_enc->finish();
@@ -18,7 +19,7 @@ $sth11d=$dbh->prepare("DROP TABLE IF EXISTS author");
 $sth11d->execute();
 $sth11d->finish();
 
-$sth11=$dbh->prepare("CREATE TABLE author(authorname varchar(400), authid int(6) auto_increment, primary key(authid))auto_increment=10001 ENGINE=MyISAM  character set utf8 collate utf8_general_ci;");
+$sth11=$dbh->prepare("CREATE TABLE author(authorname varchar(400), authid int(6) auto_increment, primary key(authid))auto_increment=10001 ENGINE=MyISAM character set utf8 collate utf8_general_ci;");
 $sth11->execute();
 $sth11->finish(); 
 

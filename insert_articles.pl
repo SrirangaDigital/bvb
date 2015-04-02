@@ -11,6 +11,7 @@ use DBI();
 open(IN,"<:utf8","bvb.xml") or die "can't open bvb.xml\n";
 
 my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
+
 $sth_enc=$dbh->prepare("set names utf8");
 $sth_enc->execute();
 $sth_enc->finish();
@@ -20,8 +21,6 @@ $sth_enc->finish();
 $sth11d=$dbh->prepare("DROP TABLE IF EXISTS article");
 $sth11d->execute();
 $sth11d->finish();
-
-
 
 $sth11r=$dbh->prepare("CREATE TABLE article(title varchar(500),
 tnum varchar(10),
@@ -36,7 +35,7 @@ part varchar(10),
 year varchar(10), 
 month varchar(10),
 date varchar(10),
-titleid varchar(30), primary key(titleid)) ENGINE=MyISAM  character set utf8 collate utf8_general_ci");
+titleid varchar(30), primary key(titleid)) ENGINE=MyISAM character set utf8 collate utf8_general_ci");
 $sth11r->execute();
 $sth11r->finish();
 

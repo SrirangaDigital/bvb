@@ -31,7 +31,7 @@
 				<li><a href="../index.html">Home</a></li>
 				<li><a href="#">About</a></li>
 				<li><a href="#">Editors</a></li>
-				<li><a href="#">Archive</a> | <a href="volumes.php">Years</a></li>
+				<li><a href="volumes.php">Archive</a> | <a href="volumes.php">Years</a></li>
 				<li><a href="#">Help</a></li>
 			</ul>
 		</nav> <!-- cd-main-nav -->
