@@ -3,7 +3,7 @@
 host="localhost"
 db="bvb"
 usr="root"
-pwd="mysql"
+pwd='mysql'
 
 echo "CREATE DATABASE IF NOT EXISTS $db CHARACTER SET utf8 COLLATE utf8_general_ci;" | /usr/bin/mysql -uroot -p$pwd
 

@@ -9,6 +9,9 @@ $pwd = $ARGV[3];
 use DBI();
 
 my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
+$sth_enc=$dbh->prepare("set names utf8");
+$sth_enc->execute();
+$sth_enc->finish();
 
 $sth11=$dbh->prepare("drop table if exists searchtable");;
 $sth11->execute();
@@ -29,7 +32,7 @@ volume varchar(3),
 part varchar(2),
 year int(4),
 month varchar(2),
-titleid varchar(30)) ENGINE=MyISAM");
+titleid varchar(30)) ENGINE=MyISAM  character set utf8 collate utf8_general_ci");
 $sth11->execute();
 $sth11->finish();
 
