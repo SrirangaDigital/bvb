@@ -20,7 +20,7 @@
 <body>
 	<header class="cd-header">
 		<div id="cd-logo">
-			<a href="../index.html#home">
+			<a href="../index.html">
 				<img src="img/logo1.gif" alt="Logo">
 				<span>BHARATIYA VIDYA BHAVAN</span>
 				<!--<img src="img/logo2.gif" alt="Logo"> -->
@@ -28,11 +28,11 @@
 		</div>
 		<nav class="cd-main-nav">
 			<ul>
-				<li><a href="../index.html#home">Home</a></li>
-				<li><a href="../index.html#about">About</a></li>
-				<li><a href="../index.html#editors">Editors</a></li>
-				<li><a href="../index.html#archive">Archive</a> | <a href="volumes.php">Years</a></li>
-				<li><a href="php/help.php">Help</a></li>
+				<li><a href="../index.html">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Editors</a></li>
+				<li><a href="#">Archive</a> | <a href="volumes.php">Years</a></li>
+				<li><a href="#">Help</a></li>
 			</ul>
 		</nav> <!-- cd-main-nav -->
 
