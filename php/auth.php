@@ -36,7 +36,11 @@ if($num_rows > 0)
 	{
 		$query3 = 'select feat_name from feature where featid=\'' . $row['featid'] . '\'';
 		$result3 = $db->query($query3); 
-		$row3 = $result3->fetch_assoc();		
+		$row3 = $result3->fetch_assoc();
+		
+		$query4 = 'select series_name from series where seriesid =\'' . $row['seriesid'] . '\'';
+		$result4 = $db->query($query4); 
+		$row4 = $result4->fetch_assoc();
 
 		$dpart = preg_replace("/^0/", "", $row['part']);
 		$dpart = preg_replace("/\-0/", "-", $dpart);
@@ -47,6 +51,7 @@ if($num_rows > 0)
 		echo '<div class="article">';
 		echo '	<div class="gapBelowSmall">';
 		echo ($row3['feat_name'] != '') ? '		<span class="aFeature clr2"><a href="feat.php?feature=' . urlencode($row3['feat_name']) . '&amp;featid=' . $row['featid'] . '">' . $row3['feat_name'] . '</a></span> | ' : '';
+		echo ($row4['series_name'] != '') ? '	<span class="aFeature clr4"><a href="ser.php?series=' . urlencode($row4['series_name']) . '&amp;seriesid=' . $row['seriesid'] . '">' . $row4['series_name'] . '</a></span> | ' : '';
 		echo '		<span class="aIssue clr5"><a href="toc.php?vol=' . $row['volume'] . '&amp;part=' . $row['part'] . '">' . getMonth($row['month']) . ' ' . $row['year'] . '  (Volume ' . intval($row['volume']) . ', Issue ' . $dpart . ')</a></span>';
 		echo '	</div>';
 		if($row['tnum'] != '')

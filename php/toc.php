@@ -41,13 +41,18 @@ if($num_rows > 0)
 		$result3 = $db->query($query3); 
 		$row3 = $result3->fetch_assoc();
 		
+		$query4 = 'select series_name from series where seriesid =\'' . $row['seriesid'] . '\'';
+		$result4 = $db->query($query4); 
+		$row4 = $result4->fetch_assoc();
+		
 		$dpart = preg_replace("/^0/", "", $row['part']);
 		$dpart = preg_replace("/\-0/", "-", $dpart);
 		
-		if($result3){$result3->free();}
+		if($result3){$result3->free();}if($result4){$result4->free();}
 
 		echo '<div class="article">';
 		echo ($row3['feat_name'] != '') ? '<div class="gapBelowSmall"><span class="aFeature clr2"><a href="feat.php?feature=' . urlencode($row3['feat_name']) . '&amp;featid=' . $row['featid'] . '">' . $row3['feat_name'] . '</a></span></div>' : '';
+		echo ($row4['series_name'] != '') ? '<div class="gapBelowSmall"><span class="aFeature clr4"><a href="ser.php?series=' . urlencode($row4['series_name']) . '&amp;seriesid=' . $row['seriesid'] . '">' . $row4['series_name'] . '</a></span></div>' : '';
 		echo '	<span class="aTitle"><a target="_blank" href="../Volumes/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['page'] . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
 		if($row['authid'] != 0) {
 
