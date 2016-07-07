@@ -1,0 +1,19 @@
+<!ELEMENT bhavans (volume*)>
+<!ELEMENT volume (part*)>
+<!ATTLIST volume vnum CDATA #REQUIRED>
+<!ELEMENT part (entry+)>
+<!ATTLIST part pnum CDATA #REQUIRED>
+<!ATTLIST part date CDATA #REQUIRED>
+<!ATTLIST part month CDATA #REQUIRED>
+<!ATTLIST part year CDATA #REQUIRED>
+<!ATTLIST part cover CDATA #REQUIRED>
+<!ELEMENT entry (title,feature,series,page,allauthors)>
+<!ELEMENT title ANY>
+<!ELEMENT i ANY>
+<!ATTLIST title num CDATA #REQUIRED>
+<!ELEMENT feature (#PCDATA)>
+<!ELEMENT series (#PCDATA)>
+<!ELEMENT page (#PCDATA)>
+<!ELEMENT allauthors (author*)>
+<!ELEMENT author (#PCDATA)>
+<!ATTLIST author type CDATA #REQUIRED>
