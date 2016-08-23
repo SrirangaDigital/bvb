@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="elasticlunr.min.js"></script>
+    <script type="text/javascript" src="jquery-3.1.0.min.js"></script>
+    <title>Bharatiya Vidya Bhavan</title>
+</head>
+<body>
+
+<div id="content"></div>
+<script type="text/javascript">
+
+$(function(){
+
+    var done = false;
+    var index = elasticlunr(function () {
+
+        this.addField('title');
+        this.addField('authorname');
+        this.addField('text');
+        this.setRef('titleid');
+    });
+
+    $.getJSON("source.json", function( data ){
+
+        for(i=0;i<data.length;i++) {
+
+            index.addDoc(data[i]);
+        }
+
+        var stringData = JSON.stringify(index.toJSON());
+        var json = stringData;
+
+        var blob = new Blob([json], {type: "application/json"});
+        var url  = URL.createObjectURL(blob);
+
+        var a = document.createElement('a');
+        a.download    = "index.json";
+        a.href        = url;
+        a.textContent = "Download index.json";
+
+        document.getElementById('content').appendChild(a);
+
+    });
+});
+
+</script>
+
+Hello
+
+</body>
+</html>
