@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <script type="text/javascript" src="elasticlunr.min.js"></script>
     <script type="text/javascript" src="jquery-3.1.0.min.js"></script>
+    <script type="text/javascript" src="Stuk-jszip-7e352ab/dist/jszip.js"></script>
     <title>Bharatiya Vidya Bhavan</title>
 </head>
 <body>
@@ -17,9 +18,9 @@ $(function(){
 
         var searchIndex = elasticlunr.Index.load(data);
 
-        var result = searchIndex.search("bangalore", {
+        var result = searchIndex.search("mysore", {
             fields: {
-                title: {boost: 2},
+                title: {boost: 1},
                 text: {boost: 1}
             }
         });
