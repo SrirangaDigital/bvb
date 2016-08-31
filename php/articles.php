@@ -60,7 +60,7 @@ else
 }
 if($letter == 'Special')
 {
-	$query = "select * from article where title not regexp '^[a-z]|^`[a-z]|^``[a-z]|<' order by title";
+	$query = "select * from article where title not regexp '^[a-z]|^`[a-z]|^``[a-z]|^<|^``<' order by title";
 }
 else
 {
