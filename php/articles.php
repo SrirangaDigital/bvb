@@ -30,6 +30,7 @@
 					<span class="letter"><a href="articles.php?letter=X">X</a></span>
 					<span class="letter"><a href="articles.php?letter=Y">Y</a></span>
 					<span class="letter"><a href="articles.php?letter=Z">Z</a></span>
+					<span class="letter"><a href="articles.php?letter=Special">#</a></span>
 				</div>
 <?php
 
@@ -57,9 +58,14 @@ else
 {
 	$letter = 'A';
 }
-
-$query = 'select * from article where title like \'' . $letter . '%\' order by title, volume, part, page';
-
+if($letter == 'Special')
+{
+	$query = "select * from article where title regexp '^[0-9].*' order by TRIM(BOTH '`' FROM TRIM(BOTH '``' FROM title))";
+}
+else
+{
+	$query = "select * from article where title like '$letter%' union select * from article where title like '``$letter%' union select * from article where title like '`$letter%' order by TRIM(BOTH '`' FROM TRIM(BOTH '``' FROM title))";
+}
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
 
