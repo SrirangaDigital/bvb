@@ -58,7 +58,7 @@ else
 	$letter = 'A';
 }
 
-$query = 'select * from author where authorname like \'' . $letter . '%\' order by authorname';
+$query = "select * from author where authorname like '$letter%' union select * from author where authorname like '``$letter%' union select * from author where authorname like '`$letter%' order by TRIM(BOTH '`' FROM TRIM(BOTH '``' FROM authorname))";
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
