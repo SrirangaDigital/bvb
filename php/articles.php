@@ -60,7 +60,7 @@ else
 }
 if($letter == 'Special')
 {
-	$query = "select * from article where title regexp '^[0-9].*' order by TRIM(BOTH '`' FROM TRIM(BOTH '``' FROM title))";
+	$query = "select * from article where title not regexp '^[a-z]|^`[a-z]|^``[a-z]|<' order by title";
 }
 else
 {
