@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<script type="text/javascript" src="elasticlunr.min.js"></script>
+	<script type="text/javascript" src="jquery-3.1.0.min.js"></script>
+	<title>Bharatiya Vidya Bhavan</title>
+</head>
+<body>
+
+<script type="text/javascript">
+
+var searchIndex = elasticlunr(function () {
+    this.addField('title');
+    this.addField('body');
+    this.setRef('id');
+});
+
+var doc1 = {
+    "id": 1001,
+    "title": "Oracle released its latest database Oracle 12g",
+    "body": "Yestaday Oracle has released its new database Oracle 12g, this would make more money for this company and lead to a nice profit report of annual year."
+}
+
+var doc2 = {
+    "id": 1002,
+    "title": "Oracle released its profit report of 2015",
+    "body": "As expected, Oracle released its profit report of 2015, during the good sales of database and hardware, Oracle's profit of 2015 reached 12.5 Billion."
+}
+
+searchIndex.addDoc(doc1);
+searchIndex.addDoc(doc2);
+
+var data = JSON.stringify(searchIndex);
+console.log(data);
+// var url = 'data:text/json;charset=utf8,' + encodeURIComponent(data);
+// window.open(url, '_blank');
+// window.focus();
+
+</script>
+
+Hello
+
+</body>
+</html>

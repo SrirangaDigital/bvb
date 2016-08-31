@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="elasticlunr.min.js"></script>
+    <script type="text/javascript" src="jquery-3.1.0.min.js"></script>
+    <script type="text/javascript" src="Stuk-jszip-7e352ab/dist/jszip.js"></script>
+    <title>Bharatiya Vidya Bhavan</title>
+</head>
+<body>
+
+<div id="content"></div>
+<script type="text/javascript">
+
+$(function(){
+
+    $.get("index.json", function( data ){
+
+        var searchIndex = elasticlunr.Index.load(data);
+
+        var result = searchIndex.search("mysore", {
+            fields: {
+                title: {boost: 1},
+                text: {boost: 1}
+            }
+        });
+        console.log(result);
+    });
+});
+
+</script>
+
+Hello
+
+</body>
+</html>
