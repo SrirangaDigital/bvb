@@ -8,7 +8,7 @@
 include("connect.php");
 require_once("common.php");
 
-$query = 'select * from feature order by feat_name';
+$query = "select * from feature order by TRIM(BOTH '`' FROM TRIM(BOTH '``' FROM feat_name))";
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
