@@ -8,7 +8,7 @@
 include("connect.php");
 require_once("common.php");
 
-$query = 'select * from series order by series_name';
+$query = "select * from series order by TRIM(BOTH '`' FROM TRIM(BOTH '``' FROM series_name))";
 
 $result = $db->query($query); 
 $num_rows = $result ? $result->num_rows : 0;
