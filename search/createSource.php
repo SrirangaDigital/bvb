@@ -3,41 +3,52 @@
 include("../php/connect.php");
 require_once("../php/common.php");
 
-$query = 'select * from searchtable order by volume, part, page limit 50000';
+$volumeQuery = 'select distinct volume from article order by volume';
+$volumeResult = $db->query($volumeQuery);
 
-$result = $db->query($query);
-$num_rows = $result ? $result->num_rows : 0;
+while($volumeRow = $volumeResult->fetch_assoc()) {
 
-$jsonArray = [];
+	$volume = $volumeRow['volume'];
+	var_dump($volume);
 
-if($num_rows > 0)
-{
-	file_put_contents('source.json', "[\n");
-	
-	for($i = 1; $i <= $num_rows; $i++) {
+	$query = 'select * from searchtable where volume = ' . $volume;
 
-		$row = $result->fetch_assoc();
-		unset($row['tnum']);
-		unset($row['authid']);
-		unset($row['featid']);
-		unset($row['seriesid']);
-		unset($row['page']);
-		unset($row['page_end']);
-		unset($row['cur_page']);
-		unset($row['volume']);
-		unset($row['part']);
-		unset($row['year']);
-		unset($row['month']);
+	$result = $db->query($query);
+	$num_rows = $result ? $result->num_rows : 0;
 
-		$rowString = ($i != $num_rows) ? json_encode($row) . ",\n" : json_encode($row);
+	$jsonArray = [];
 
-		file_put_contents('source.json', $rowString, FILE_APPEND);
+	$fileName = 'source/' . $volume . '.json';
+
+	if($num_rows > 0)
+	{
+		file_put_contents($fileName, "[\n");
+		
+		for($i = 1; $i <= $num_rows; $i++) {
+
+			$row = $result->fetch_assoc();
+			unset($row['tnum']);
+			unset($row['authid']);
+			unset($row['featid']);
+			unset($row['seriesid']);
+			unset($row['page']);
+			unset($row['page_end']);
+			unset($row['cur_page']);
+			unset($row['volume']);
+			unset($row['part']);
+			unset($row['year']);
+			unset($row['month']);
+
+			$rowString = ($i != $num_rows) ? json_encode($row) . ",\n" : json_encode($row);
+
+			file_put_contents($fileName, $rowString, FILE_APPEND);
+		}
+
+		file_put_contents($fileName, "\n]", FILE_APPEND);
 	}
 
-	file_put_contents('source.json', "\n]", FILE_APPEND);
 }
 
-if($result){$result->free();}
 $db->close();
 
 ?>

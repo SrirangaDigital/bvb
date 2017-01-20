@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <script type="text/javascript" src="elasticlunr.min.js"></script>
     <script type="text/javascript" src="jquery-3.1.0.min.js"></script>
-    <script type="text/javascript" src="Stuk-jszip-7e352ab/dist/jszip.js"></script>
     <title>Bharatiya Vidya Bhavan</title>
 </head>
 <body>
@@ -14,23 +13,83 @@
 
 $(function(){
 
-    $.get("index.json", function( data ){
+    word = getUrlParameter('search');
 
-        var searchIndex = elasticlunr.Index.load(data);
+    $('#content').append('<ol id="results"></ol>');
 
-        var result = searchIndex.search("mysore", {
-            fields: {
-                title: {boost: 1},
-                text: {boost: 1}
+    for(i=1;i<=61;i++) {
+
+        $('#content').append('<ul id="vol_' + i + '"></ul>');
+
+        $.get('./index/' + i + '.json', function( data ){
+
+            num = i;
+            var searchIndex = elasticlunr.Index.load(data);
+
+            // console.log(searchIndex);
+            var result = searchIndex.search(word, {
+                fields: {
+                    title: {boost: 1, expand: true}
+                    // , text: {boost: 1, expand: false}
+                }
+            });
+
+            htmlData = '';
+            for(j=0;j<result.length;j++) {
+             
+                articleDetails = getArticleDetails(searchIndex.documentStore.docs[result[j].ref]);
+
+                htmlData += '<li>';
+                htmlData += articleDetails.title + ' (Volume ' + articleDetails.volume + ', Issue ' + articleDetails.issue + ')';
+                htmlData += '</li>';
+
+                $('#results').append(htmlData);
             }
         });
-        console.log(result);
+    }
+
+    $( document ).ajaxStart(function() {
+        
+        $( "#results" ).before( '<p id="inProgress">Searching</p>' );
+    });
+    $( document ).ajaxStop(function() {
+        
+        $( "#inProgress" ).remove();
+        $( "#results" ).after( "<p>Search completed</p>" );
     });
 });
 
+function getArticleDetails(json) {
+
+    details = [];
+    details.title = json.title;
+    details.text = json.text;
+    details.id = json.titleid;
+
+    pieces = details.id.split("_");
+    details.volume = pieces[1];
+    details.issue = pieces[2];
+    details.page = pieces[3];
+    details.end = pieces[4];
+
+    return details;
+}
+
+function getUrlParameter(sParam)
+{
+    var sPageURL = window.location.search.substring(1);
+    var sURLVariables = sPageURL.split('&');
+    
+    for (var i = 0; i < sURLVariables.length; i++) 
+    {
+        var sParameterName = sURLVariables[i].split('=');
+        if (sParameterName[0] == sParam) 
+        {
+            return sParameterName[1];
+        }
+    }
+}
+
 </script>
-
-Hello
-
 </body>
 </html>
