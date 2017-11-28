@@ -26,16 +26,17 @@ $sth11r=$dbh->prepare("CREATE TABLE article(title varchar(500),
 tnum varchar(10),
 authid varchar(200),
 authorname varchar(1000),
-featid varchar(100),
-seriesid varchar(10),
+feature varchar(500),
+series varchar(500),
 page varchar(10), 
 page_end varchar(10), 
+page_range varchar(100), 
 volume varchar(3),
 part varchar(10),
 year varchar(10), 
 month varchar(10),
 date varchar(10),
-titleid varchar(30), primary key(titleid)) ENGINE=MyISAM character set utf8 collate utf8_general_ci");
+titleid varchar(100), primary key(titleid)) ENGINE=MyISAM character set utf8 collate utf8_general_ci");
 $sth11r->execute();
 $sth11r->finish();
 
@@ -54,7 +55,7 @@ while($line)
 		$date = $2;
 		$month = $3;
 		$year = $4;
-		$count = 0;
+		$count = 1;
 		$prev_pages = "";
 	}	
 	elsif($line =~ /<title num="(.*)">(.*)<\/title>/)
@@ -74,26 +75,9 @@ while($line)
 	}	
 	elsif($line =~ /<page>(.*)<\/page>/)
 	{
-		$pages = $1;
-		($page, $page_end) = split(/-/, $pages);
-		if($pages eq $prev_pages)
-		{
-			$count++;
-			$id = "bvb_" . $volume . "_" . $part . "_" . $page . "_" . $page_end . "_" . $count; 
-		}
-		else
-		{
-			$id = "bvb_" . $volume . "_" . $part . "_" . $page . "_" . $page_end . "_0";
-			$count = 0;
-		}
-		$prev_pages = $pages;
-		if($page_end)
-		{
-		} 
-		else
-		{
-			$page_end = $page;
-		}
+		$page_range = $1;
+		($page, $page_end) = split(/-/, $page_range);
+		$id = "bvb_" . $volume . "_" . $part . "_" . $page_range . "_" . $count++; 
 	}
 	elsif($line =~ /<author type="(.*)">(.*)<\/author>/)
 	{
@@ -108,10 +92,10 @@ while($line)
 	}
 	elsif($line =~ /<\/entry>/)
 	{
-		insert_article($title,$tnum,$authids,$author_name,$featid,$seriesid,$page,$page_end,$volume,$part,$year,$month,$date,$id);
+		insert_article($title,$tnum,$authids,$author_name,$feature,$series,$page,$page_end,$page_range,$volume,$part,$year,$month,$date,$id);
 		$authids = "";
-		$featid = "";
-		$seriesid = "";
+		$feature = "";
+		$series = "";
 		$author_name = "";
 		$id = "";
 	}
@@ -123,15 +107,17 @@ $dbh->disconnect();
 
 sub insert_article()
 {
-	my($title,$tnum,$authids,$author_name,$featid,$seriesid,$page,$page_end,$volume,$part,$year,$month,$date,$id) = @_;
+	my($title,$tnum,$authids,$author_name,$feature,$series,$page,$page_end,$page_range,$volume,$part,$year,$month,$date,$id) = @_;
 	my($sth1);
 
 	$title =~ s/'/\\'/g;
+	$feature =~ s/'/\\'/g;
+	$series =~ s/'/\\'/g;
 	$authids =~ s/^;//;
 	$author_name =~ s/^;//;
 	$author_name =~ s/'/\\'/g;
 	
-	$sth1=$dbh->prepare("insert into article values('$title','$tnum','$authids','$author_name','$featid','$seriesid','$page','$page_end','$volume','$part','$year','$month','$date','$id')");
+	$sth1=$dbh->prepare("insert into article values('$title','$tnum','$authids','$author_name','$feature','$series','$page','$page_end','$page_range','$volume','$part','$year','$month','$date','$id')");
 	
 	$sth1->execute();
 	$sth1->finish();
