@@ -21,6 +21,7 @@ $sth11->finish();
 $sth11=$dbh->prepare("CREATE TABLE testocr(volume varchar(3),
 part varchar(6),
 cur_page varchar(10),
+relative_page varchar(10),
 text varchar(5000)) ENGINE=MyISAM  character set utf8 collate utf8_general_ci");
 
 $sth11->execute();
@@ -40,6 +41,7 @@ for($i1=0;$i1<@volumes;$i1++)
 
 		@files = `ls Text/$volumes[$i1]/$part[$i2]/`;
 		
+		$relative_page = 1;
 		for($i3=0;$i3<@files;$i3++)
 		{
 			chop($files[$i3]);
@@ -56,7 +58,8 @@ for($i1=0;$i1<@volumes;$i1++)
 				$line=<DATA>;
 				$line =~ s/'/\\'/g;
 				
-				$sth1=$dbh->prepare("insert into testocr values ('$vol','$prt','$cur_page','$line')");
+				$sth1=$dbh->prepare("insert into testocr values ('$vol','$prt','$cur_page','$relative_page','$line')");
+				$relative_page++;
 				$sth1->execute();
 				$sth1->finish();
 				
