@@ -27,7 +27,7 @@ function writeMetadataJson($db) {
 		while($row = $result->fetch_assoc()) {
 
 			unset($row['authid']);
-			$row['authornames'] = $row['authorname'];
+			$row['authornames'] = explode(';', $row['authorname']);
 			unset($row['authorname']);
 			$row['date'] = $row['year'] . '-' . $row['month'] . '-' . $row['date'];
 			unset($row['month']);
