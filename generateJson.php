@@ -41,6 +41,7 @@ function writeMetadataJson($db) {
 	}
 
 	$json = json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+	$json = str_replace('&amp;', '&', $json);
 
 	echo (file_put_contents('/home/sriranga/Documents/node/bvb/public/data/bvb.json', $json)) ? 'bvb.json written' . "\n" : 'Error in writing bvb.json' . "\n";
 }
