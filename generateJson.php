@@ -10,7 +10,7 @@ writeMetadataJson($db);
 writeAuthorJson($db);
 
 // // Write source for text search
-// writeTextJson($db);
+writeTextJson($db);
 
 
 // Functions
@@ -57,8 +57,13 @@ function writeAuthorJson($db) {
 
 		while($row = $result->fetch_assoc()) {
 
+			$queryCount = "SELECT COUNT(*) FROM article WHERE authid REGEXP " . $row['authid'];
+			$resultCount = $db->query($queryCount);
+			$rowCount = $resultCount->fetch_assoc();
+
 			unset($row['authid']);
 			$row['author'] = $row['authorname'];
+			$row['count'] = intval($rowCount['COUNT(*)']);
 			unset($row['authorname']);
 			array_push($authors, $row);
 		}
